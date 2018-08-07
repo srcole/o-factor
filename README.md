@@ -8,7 +8,9 @@ We want to find a way to promote open science and give incentives for scientists
 
 What does this project include?
 * Scraper (we are planning to start with a simple API to get preliminary data, and then try to add more data from other APIs.
-* A formula to calculate the o-factor (and possibly related topics which we are not sure of)
+* Creating a table with the relevant "features" for each paper (data shared / not; code shared / not; pre-registration / not; etc.)
+* Pulling metadata of the journals such as open access, field, policies etc.
+* Compute a o-factor formula
 * A web-app
 
 
@@ -25,5 +27,5 @@ Contributers (ABC order):
 
 Acknowledgements
 We built on a few previous projects:
-1. Scott Coles' codesharing mini-project: https://github.com/srcole/codesharing
+1. Scott Cole's codesharing mini-project: https://github.com/srcole/codesharing
 2. The Code and Data Citation Counter: doi 10.5281/zenodo.1209095 link: https://github.com/softwaresaved/code-cite
