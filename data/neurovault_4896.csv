@@ -1,0 +1,106 @@
+,PMCID,sentence
+0,PMC4596689,"rated:</p>
+        <p>
+          <related-object content-type=""generated-dataset"" source-id=""http://neurovault.org/collections/860/"" source-id-type=""uri"" id=""dataro1""><collab collab-type=""author"">Zeighami Y</co"
+1,PMC4596689,"on's Disease</source><x xml:space=""preserve"">, </x><ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/860/"">http://neurovault.org/collections/860/</ext-link><x xml:space=""preserve"">, </"
+2,PMC4596689,"rve"">, </x><ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/860/"">http://neurovault.org/collections/860/</ext-link><x xml:space=""preserve"">, </x><comment>Publicly available at NeuroVa"
+3,PMC4596689,"rovault.org/collections/860/</ext-link><x xml:space=""preserve"">, </x><comment>Publicly available at NeuroVault (collection 860).</comment></related-object>
+        </p>
+        <p>The following previously publi"
+0,PMC5606848,"ing maps from our study are available at&#xA0;<ext-link ext-link-type=""uri"" xlink:href=""https://www.neurovault.org/collections/2860/"">https://www.neurovault.org/collections/2860/.</ext-link></p>
+      </sec>
+  "
+1,PMC5606848,"<ext-link ext-link-type=""uri"" xlink:href=""https://www.neurovault.org/collections/2860/"">https://www.neurovault.org/collections/2860/.</ext-link></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type="
+2,PMC5606848,"<p>
+          <related-object content-type=""generated-dataset"" id=""dataset2"" source-id=""https://www.neurovault.org/collections/2860/"" source-id-type=""uri"">
+            <collab collab-type=""author"">Yu Zhang</col"
+3,PMC5606848,"igra and its connections</source>
+            <ext-link ext-link-type=""uri"" xlink:href=""https://www.neurovault.org/collections/2860/"">https://www.neurovault.org/collections/2860/</ext-link>
+            <comment"
+4,PMC5606848,"<ext-link ext-link-type=""uri"" xlink:href=""https://www.neurovault.org/collections/2860/"">https://www.neurovault.org/collections/2860/</ext-link>
+            <comment>Publicly available at neurovault</comment>
+  "
+5,PMC5606848,">https://www.neurovault.org/collections/2860/</ext-link>
+            <comment>Publicly available at neurovault</comment>
+          </related-object>
+        </p>
+        <p>The following previously published da"
+0,PMC5662289,"access.html"">https://ndar.nih.gov/access.html</ext-link>. The fMRI activation maps are available at neurovault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/ZZHNHAJU/"">http://neur"
+1,PMC5662289," fMRI activation maps are available at neurovault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/ZZHNHAJU/"">http://neurovault.org/collections/ZZHNHAJU/</ext-link>).</p>
+      </sec"
+2,PMC5662289,"ault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/ZZHNHAJU/"">http://neurovault.org/collections/ZZHNHAJU/</ext-link>).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-"
+3,PMC5662289,"     <p>
+          <related-object content-type=""generated-dataset"" id=""dataset2"" source-id=""http://neurovault.org/collections/ZZHNHAJU/"" source-id-type=""uri"">
+            <collab collab-type=""author"">Collette "
+4,PMC5662289,"t learning in the human brain</source>
+            <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/ZZHNHAJU/"">http://neurovault.org/collections/ZZHNHAJU/</ext-link>
+            <comm"
+5,PMC5662289,"      <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/ZZHNHAJU/"">http://neurovault.org/collections/ZZHNHAJU/</ext-link>
+            <comment>The fMRI activation maps are available at"
+6,PMC5662289,"org/collections/ZZHNHAJU/</ext-link>
+            <comment>The fMRI activation maps are available at neurovault (accession no: ZZHNHAJU)</comment>
+          </related-object>
+        </p>
+      </sec>
+    </sec>"
+0,PMC5935486,"gle of each significant cluster (<xref ref-type=""fig"" rid=""fig4"">Figure 4b</xref>) are available at Neurovault (<xref rid=""bib35"" ref-type=""bibr"">Gorgolewski et al., 2015</xref>) at the following address: <ext-"
+1,PMC5935486,"ski et al., 2015</xref>) at the following address: <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/GMHHGEXA/"">http://neurovault.org/collections/GMHHGEXA/</ext-link></p>
+      </sec>
+"
+2,PMC5935486,"ress: <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/GMHHGEXA/"">http://neurovault.org/collections/GMHHGEXA/</ext-link></p>
+      </sec>
+      <sec id=""s4-8"">
+        <title>Custom c"
+3,PMC5935486,"
+            </name>
+          </person-group>
+          <year>2015</year>
+          <article-title>NeuroVault.org: a web-based repository for collecting and sharing unthresholded statistical maps of the human "
+0,PMC5957527,"ning measured acuity levels (full, unthresholded statistical maps for all analyses are available at Neurovault; neurovault.org/collections/3177).</p>
+      </sec>
+      <sec id=""s2-6"">
+        <title>Changes in"
+1,PMC5957527,"d acuity levels (full, unthresholded statistical maps for all analyses are available at Neurovault; neurovault.org/collections/3177).</p>
+      </sec>
+      <sec id=""s2-6"">
+        <title>Changes in neural repr"
+2,PMC5957527,"deposited at openfMRI (openfmri.org/dataset/ds000249) and derived statistical maps are available at NeuroVault (neurovault.org/collections/3177).</p>
+      </sec>
+      <sec id=""s4-2"">
+        <title>Design&#xA"
+3,PMC5957527," openfMRI (openfmri.org/dataset/ds000249) and derived statistical maps are available at NeuroVault (neurovault.org/collections/3177).</p>
+      </sec>
+      <sec id=""s4-2"">
+        <title>Design&#xA0;</title>
+ "
+4,PMC5957527,"deposited at openfMRI (openfmri.org/dataset/ds000249) and derived statistical maps are available at NeuroVault (neurovault.org/collections/3177).</p>
+        <p>The following datasets were generated:</p>
+      "
+5,PMC5957527," openfMRI (openfmri.org/dataset/ds000249) and derived statistical maps are available at NeuroVault (neurovault.org/collections/3177).</p>
+        <p>The following datasets were generated:</p>
+        <p>
+      "
+6,PMC5957527,"    <p>
+          <related-object content-type=""generated-dataset"" id=""dataset1"" source-id=""https://neurovault.org/collections/3177/"" source-id-type=""uri"">
+            <collab collab-type=""author"">Agnes Norbury"
+7,PMC5957527," in human avoidance learning</source>
+            <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3177/"">https://neurovault.org/collections/3177/</ext-link>
+            <comment>Pub"
+8,PMC5957527,"        <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3177/"">https://neurovault.org/collections/3177/</ext-link>
+            <comment>Publicly available at Neurovault (accession n"
+9,PMC5957527,"77/"">https://neurovault.org/collections/3177/</ext-link>
+            <comment>Publicly available at Neurovault (accession no. 3177)</comment>
+          </related-object>
+        </p>
+        <p>
+          <rela"
