@@ -1,0 +1,241 @@
+,PMCID,sentence
+0,PMC4011162," the genome of <italic>T. urticae</italic> and does not represent bacterial contamination. Sequence data is available at Genbank (accession numbers: KF981736 and KF981737).<fig id=""fig3"" orientation=""portrait"" positio"
+0,PMC4017647,e calculated by dividing the quantitative fragment count between tissue samples. Unprocessed 4C-seq data is available from the Gene Expression Omnibus (GEO) repository under accession number GSE55344. Random corrected
+1,PMC4017647,"tsstation.epfl.ch</ext-link>; <xref rid=""bib6"" ref-type=""bibr"">David et al., 2014</xref>). ChIP-seq data is available from the Gene Expression Omnibus (GEO) repository under accession numbers GSE55344 and GSE31570.</p"
+2,PMC4017647,"htsstation.epfl.ch</ext-link>; <xref rid=""bib6"" ref-type=""bibr"">David et al., 2014</xref>). RNA-seq data is available from the Gene Expression Omnibus (GEO) repository under accession numbers GSE55344. For RT-qPCR, cD"
+0,PMC4074974,"     </sec>
+      <sec id=""s4-15"">
+        <title>Sequencing data</title>
+        <p>All sequencing data is available in the NCBI GEO as SuperSeries GSE38275.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec se"
+0,PMC4270077,"n about the project including its coordination, planning, execution, and ultimately the replication data is available publicly at the <ext-link ext-link-type=""uri"" xlink:href=""https://osf.io/e81xl/wiki/home/"">Open Sci"
+0,PMC4381951,"        <p>Source code for the pipelines used to analyze RNA-Seq, ribosome profiling and
+Bind-n-Seq data is available through the open-source library
+<underline>rnaseqlib</underline> (available at the git repository: "
+0,PMC4383097,"quency was calculated
+as either 100 x #HDR reads/(#indel reads + #non-indel reads). Deep sequencing
+data is available at the NCBI Sequence Read Archive (SRA, BioProject: 269153).</p>
+      </sec>
+    </sec>
+  </body>
+"
+0,PMC4384636,"name, localization in wild-type egg-chambers and mRNA appearance upon microtubule depolymerization. Data is available publicly at the DOT, the Dresden Ovary Table (<ext-link ext-link-type=""uri"" xlink:href=""http://toma"
+0,PMC4402597," of CFUs on tetrazolium plates, so how would growth rates be derived from that; especially, when no data is available as number of generations within the 24 hours growth (or growth phase, see above)?</p>
+      <p>5) &"
+1,PMC4402597," of CFUs on tetrazolium plates, so how would growth rates be derived from that; especially, when no data is available as number of generations within the 24 hours growth (or growth phase, see above)</italic>?</p>
+    "
+0,PMC4434323,"between ME and HK replicate PBMs). Colored boxes represent DBD classes for each TF. Average E-score data is available in <xref ref-type=""supplementary-material"" rid=""SD2-data"">Figure 3&#x2014;source data 1</xref>.</p>"
+0,PMC4486817,"chondrial dynamics is an important future research direction to be addressed when more quantitative data is available.</p>
+      <p>The experimental data used to parameterise the first part of our study was taken from"
+0,PMC4502404,s using the table of reads mapped to known mouse genes (mm9) by the authors using TopHat 2.0.4 (the data is available in GEO as series GSE53074) and used the R package biomaRt to retrieve mouse and human homologous id
+0,PMC4592948," and the number in the bottom right of the gate indicates the percentage of p24-positive cells. The data is available upon request.</p><p><bold>DOI:</bold>
+<ext-link ext-link-type=""doi"" xlink:href=""10.7554/eLife.08150"
+1,PMC4592948,"lots are shown in <xref ref-type=""fig"" rid=""fig2s3"">Figure 2&#x2014;figure supplement 3</xref>. The data is available upon request. The remaining cell culture was centrifuged and then resuspended with 3 ml of fresh cu"
+0,PMC4595745,"nd 25% mapped to abundant sequences such as ribosomal RNA, mitochondrial or phiX sequences. RNA-Seq data is available at Gene Expression Omnibus (GEO) (accession number GSE68177).</p>
+      </sec>
+      <sec id=""s4-4"""
+1,PMC4595745,"</p>
+      </sec>
+      <sec id=""s4-25"">
+        <title>Accession number</title>
+        <p>RNA-Seq data is available at GEO, accession number GSE68177.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type"
+0,PMC4608356," MCM's design, any numerical model parameter can in principle be calibrated, provided that suitable data is available. That includes stoichiometric coefficients, uptake kinetics, extracellular transport coefficients ("
+0,PMC4629441,"lso be presented together (e.g. rat data for electrophysiological is presumably simply because more data is available?), and whether people agree or not about different details would be a moot point, as it would be cl"
+1,PMC4629441,"lso be presented together (e.g. rat data for electrophysiological is presumably simply because more data is available?), and whether people agree or not about different details would be a moot point, as it would be cl"
+0,PMC4631838,"he architecture of the tail module, which is a flexible structure and for which no crystallographic data is available. The predicted structure resolution of the head and middle modules is rather low, compared to those"
+1,PMC4631838,"he architecture of the tail module, which is a flexible structure and for which no crystallographic data is available. The predicted structure resolution of the head and middle modules is rather low, compared to those"
+0,PMC4718725,"ation provided by the same package. We used the normalized count data for downstream analysis. This data is available in the Gene Expression Omnibus database (<ext-link ext-link-type=""uri"" xlink:href=""http://www.ncbi."
+0,PMC4718817,"nce. Trajectory that reach high frequencies are shown with thicker and more opaque lines. Analogous data is available for all patients for most of the HIV-1 genome. EDI, estimated date of infection; SNP, single nucleo"
+0,PMC4728133,"mentary files 1</xref> and <xref ref-type=""supplementary-material"" rid=""SD2-data"">2</xref> and full data is available on the GEO site with accession numbers listed in the Methods section.</p>
+      <p>Reviewer #2:</p>"
+0,PMC4731332,"e (FN869859) using default settings (mismatch cost set to 4). The <italic>T. tenax</italic> RNA-Seq data is available at Gene Expression Omnibus (GSE72127, [<ext-link ext-link-type=""uri"" xlink:href=""http://www.ncbi.nl"
+0,PMC4805540,us on the role of the different MTL areas in the retrieval of very remote memories for which little data is available: all studies published for this time point have been cited in the Introduction of the original manu
+0,PMC4868539,"nting RNA polymerase errors in already aligned ENCODE data</title>
+        <p>Much existing RNA-seq data is available as bam files aligned to the human genome. In order to bypass alignment, which&#xA0;is&#xA0;the most"
+0,PMC4931910,"the Blueprint Consortium. A full list of the investigators who contributed to the generation of the data is available from <ext-link ext-link-type=""uri"" xlink:href=""http://www.blueprint-epigenome.eu"">www.blueprint-epi"
+0,PMC4957980,"of imports (red = high, purple = low). The shading countries is for purposes of clarity only. Trade data is available from the UN Commodity Statistics Database (<xref ref-type=""supplementary-material"" rid=""SD9-data"">F"
+0,PMC4959841,"imation.</p>
+      </sec>
+      <sec id=""s3-8"">
+        <title>Data</title>
+        <p>All relevant data is available on request. The electron microscopic data set of <xref ref-type=""fig"" rid=""fig3"">Figure 3k</xref>, "
+0,PMC4991934,".ncbi.nlm.nih.gov/SNP/</ext-link>), and our in-house 898 Middle East origin exome database. The raw data is available under the sequence reads archive (SDA) accession no. SRP073309.</p>
+        <p>Sanger sequencing of"
+0,PMC5007114,"r infections (<xref rid=""bib81"" ref-type=""bibr"">Wang et al., 2015</xref>). Very little experimental data is available on the nature of the diderm cell envelope of Negativicutes. In <italic>Selenomonas ruminantium</ita"
+0,PMC5030084,"per million reads that mapped to HIV. A reproducible software pipeline for analysis of Excision-seq data is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/hesselberthlab/stivers-hiv"">https:/"
+1,PMC5030084,"ef>) under accession number GSE76091. A reproducible software pipeline for analysis of Excision-seq data is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/hesselberthlab/stivers-hiv"">https:/"
+0,PMC5030085,"/p>
+      </sec>
+      <sec id=""s4-8"">
+        <title>Accession numbers</title>
+        <p>ChIP-seq data is available at Arrayexpress under accession number E-MTAB-4776. The atomic coordinates have been deposited at t"
+0,PMC5035146,"as <xref ref-type=""other"" rid=""media2"">Video 2</xref>. A lower-quality, smaller version of the same data is available as <xref ref-type=""other"" rid=""media3"">Video 3</xref>. In the 3D rendering there are 60 images axia"
+0,PMC5040589,"ions was conducted with the Student&#x2019;s T-test. *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD1-data"">Figure 1&#x2014;source data 1</xref>.</p>"
+1,PMC5040589,"ions was conducted with the Student&#x2019;s T-test. *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD2-data"">Figure 2&#x2014;source data 1</xref>.</p>"
+2,PMC5040589,"ions was conducted with the Student&#x2019;s T-test. *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD3-data"">Figure 3&#x2014;source data 1</xref>.</p>"
+3,PMC5040589,"atistical relationship between each pair of samples. *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD4-data"">Figure 4&#x2014;source data 1</xref>.</p>"
+4,PMC5040589,"tions was conducted with the Student&#x2019;s T-test *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD5-data"">Figure 5&#x2014;source data 1</xref>.</p>"
+5,PMC5040589,"ions was conducted with the Student&#x2019;s T-test. *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD6-data"">Figure 6&#x2014;source data 1</xref>.</p>"
+6,PMC5040589,"atistical relationship between each pair of samples, *p&lt;0.05, **p&lt;0.01, ***p&lt;0.001. Source data is available in <xref ref-type=""supplementary-material"" rid=""SD7-data"">Figure 7&#x2014;source data 1</xref></p><"
+0,PMC5042651,"tified in <italic>C.riparius</italic> and in major families of winged insects where genome sequence data is available (Pterygota, <xref ref-type=""fig"" rid=""fig3s1"">Figure 3&#x2014;figure supplement 1</xref>). The univ"
+0,PMC5050023,"low calculation of &#x394;<sub>1D</sub>. Custom written software for spot detection and analysis of data is available at <ext-link ext-link-type=""uri"" xlink:href=""http://mechanochemistry.org/mcainsh/software.php"">http"
+0,PMC5072837,ongs to the class of Gammaproteobacteria and the latter to Alphaproteobacteria. No genomic sequence data is available for this bacterium and no gene or protein sequence from it appears when we conduct a BLAST search u
+0,PMC5089864,"ree that no additional experiments are required for the main message of the manuscript, although if data is available that addresses some of the questions raised by the reviewers, the authors should include it. The fu"
+1,PMC5089864,"ree that no additional experiments are required for the main message of the manuscript, although if data is available that addresses some of the questions raised by the reviewers, the authors should include it. The fu"
+0,PMC5114016,"TLAB toolbox for analysis of traveling waves and complex spatiotemporal dynamics in noisy multisite data is available as an open-source release on BitBucket: <ext-link ext-link-type=""uri"" xlink:href=""http://bitbucket."
+0,PMC5115866,"ty</p>
+      <p>16) The web site works for a single sequence input. It is not clear how much global data is available to the community. Can one download a list of all predicted PPIs with the scores? Can one obtain pre"
+1,PMC5115866,     <p><italic>16) The web site works for a single sequence input. It is not clear how much global data is available to the community. Can one download a list of all predicted PPIs with the scores? Can one obtain pre
+0,PMC5119888,"rmed using two-sided <italic>t</italic>-tests as described in Materials and methods. The underlying data is available in <xref ref-type=""supplementary-material"" rid=""SD2-data"">Figure 3&#x2014;source data 1</xref>. ***"
+0,PMC5182061," and Nicholas Strausfeld for critical comments on earlier versions of this manuscript. The EM image data is available via the Open Connectome Project (<ext-link ext-link-type=""uri"" xlink:href=""http://www.openconnectom"
+0,PMC5217754,"e annual ACS changes of survivors and recruits in 133 Amazonian selectively logged plots.</title><p>Data is available between the year of minimum ACS (<inline-formula><mml:math id=""inf17""><mml:mrow><mml:mi>t</mml:mi><"
+1,PMC5217754,"ric equation (<xref rid=""bib12"" ref-type=""bibr"">Chave et al., 2014</xref>) accordingly.&#xA0;Sites' data is available at Dryad Digital Repository&#xA0;(<xref rid=""bib36"" ref-type=""bibr"">Piponiot et al., 2016</xref>).<"
+0,PMC5224921,"determined with a Fisher&#x2019;s Exact test; significance was achieved with p-value&#xA0;&lt;0.05. Data is available at GSE80444: reviewer link - (<ext-link ext-link-type=""uri"" xlink:href=""http://www.ncbi.nlm.nih.gov"
+0,PMC5231409,"</xref>; <xref rid=""bib13"" ref-type=""bibr"">Benoit et al., 2014</xref>). SRA and BioProject sequence data is available at the NCBI website (<ext-link ext-link-type=""uri"" xlink:href=""http://www.ncbi.nlm.nih.gov/sra"">htt"
+0,PMC5262383,"dence measured every week) and the recovered humans (seroprevalence at the end of the outbreak when data is available). In order to link the model to the data, two observation models, for both incidence and seropreval"
+0,PMC5268739,"c> values.</p>
+      <p>Specific points:</p>
+      <p>1) Please make sure that your deep sequencing data is available on the SRA and relevant computer code is available as supporting file or on a publicly accessible r"
+1,PMC5268739,"talic>Specific points:</italic>
+</p>
+      <p><italic>1) Please make sure that your deep sequencing data is available on the SRA and relevant computer code is available as supporting file or on a publicly accessible r"
+0,PMC5295817,"al., 2014</xref>). The WGS analysis reveals differences in EAF plasmid copy number only and the raw data is available as NCBI BioProject PRJNA255355 (Accessions: SRX757584 and SRX757585 for SMALL and BIG respectively)"
+0,PMC5308893," time&#xA0;inside the&#xA0;ROI), and average speed in the&#xA0;ROI.</p>
+          <p>All behavioral data is available from the Dryad Digital Repository&#xA0;(<xref rid=""bib15"" ref-type=""bibr"">Correia et al., 2016</xre"
+0,PMC5364026,"t the IncE<sub>108-132</sub> interface are identical in all species of metazoans for which sequence data is available (<xref ref-type=""fig"" rid=""fig2"">Figure 2A</xref>). This conservation was observed even in the most"
+0,PMC5406205," Health grant (GM060396) awarded to Julian Schroeder also funded research in this manuscript. Array data is available at NCBI GEO Database (GSE84997).</p>
+    </ack>
+    <sec id=""s5"" sec-type=""additional-information"">"
+0,PMC5413353,"#xA0;&gt;&#xA0;10,000 cells per experimental condition. This approach is less reliable when limited data is available, because of the low confidence in the conditional probability of observations with low data abundan"
+0,PMC5432210,into how the BRCA1 protein repairs DNA. The next step will be to assess rarer variants where little data is available. A better understanding of how these variants affect DNA repair and drug response will help to impr
+0,PMC5462542,"opulations</ext-link>
+            <x xml:space=""preserve"">,</x>
+            <comment>Access to this data is available through application to the MalariaGen Independent Data Access Committee. Please see https://www.mal"
+0,PMC5478281,"pendicular to the zippering axis). Source code of the implemented zipper model used to generate the data is available in <xref ref-type=""supplementary-material"" rid=""SD26-data"">Figure 12&#x2014;source data 1</xref>.</"
+0,PMC5487214," matching with authentic standards (Sigma, cat# 2HG:H8378, Asp:A9256, Glu:G1251). This metabolomics data is available at the NIH Common Fund's Data Repository and Coordinating Center (supported by NIH grant, U01-DK097"
+0,PMC5526664,"nd numerical simulation is stored on a locally managed server. Processed experimental and numerical data is available on the data management server for The University of Adelaide (<ext-link ext-link-type=""uri"" xlink:h"
+0,PMC5540466,"ifferentiation by combining a specific combination of cell surface markers. Although a large set of data is available concerning development in rodent models, there is only limited knowledge on human development. Impo"
+0,PMC5560861,"ukaryotic reads, or 0.013% of the opisthokonts&#x2019;. The only species for which population-level data is available (already mentioned in the manuscript; subsection &#x201C;Consequences of intron gains in early holo"
+0,PMC5562443,"ucted following published protocol (<xref rid=""bib14"" ref-type=""bibr"">Chu et al., 2011</xref>). The data is available at the NCBI Gene Expression Omnibus (accession number: GSE90574). The link to the data is as follow"
+1,PMC5562443,"gene expression (95% of the results are not false discoveries, error rate 0.05&#xA0;=&#xA0;5%). The data is available at the NCBI Gene Expression Omnibus (accession number: GSE90574,&#xA0;<ext-link ext-link-type=""uri"""
+0,PMC5578734,"
+      </sec>
+      <sec id=""s4-16"">
+        <title>Data availability</title>
+        <p>The RNAseq data is available via accession number: SRP107059</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type=""f"
+0,PMC5595438,"dArray Reader. Images from the scanner were processed using the BeadStudio software. The microarray data is available to download from ArrayExpress (accession number E-MTAB-3256).</p>
+      </sec>
+      <sec id=""s4-3"""
+0,PMC5608510,<p>n&#xA0;=&#xA0;number of CaP clinical specimens for which DNA sequencing or copy number variation data is available. Numbers in columns indicate the percentage of CaP cases in each study for which somatic mutations 
+0,PMC5610035,"Gs) across samples of interest. FPKM values were taken as inputs for PCA analysis and DEG analyses. Data is available at GEO: GSE85039.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type=""funding-informa"
+0,PMC5663477,"ell, 2017b</xref>) for complete details and validation of the method. Code for fitting the model to data is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/cianodonnell/PopulationTracking"">ht"
+0,PMC5665646,rcentage points were from either the earlier or later years of the study period where less response data is available (the bulk of the surveys used were conducted in 2009-2012). As more data becomes available in later
+0,PMC5681225,"ref ref-type=""supplementary-material"" rid=""fig6sdata1"">Figure 6&#x2014;source data 1</xref> and raw data is available through the PRIDE Archive.</p>
+      </sec>
+      <sec id=""s4-12"">
+        <title>Quantification of"
+0,PMC5685469,"type=""bibr"">Sackman, 1975</xref>). If forecasts of precisely defined events are sought (and if past data is available), tools such as trend analysis will likely give more accurate predictions, and could be used in con"
+1,PMC5685469,"type=""bibr"">Sackman, 1975</xref>]. If forecasts of precisely defined events are sought (and if past data is available), tools such as trend analysis will likely give more accurate predictions, and could be used in con"
+0,PMC5690287,". Sequence data were deposited in ENA under accessions ERP006948 and ERP013756. The processed count data is available to download at <ext-link ext-link-type=""uri"" xlink:href=""https://doi.org/10.6084/m9.figshare.462231"
+0,PMC5705215,"tps://www.ncbi.nlm.nih.gov/variation/news/NCBI_retiring_HapMap/</ext-link>) and the archived HapMap data is available via FTP from <ext-link ext-link-type=""ftp"" xlink:href=""ftp://ftp.ncbi.nlm.nih.gov/hapmap/."">ftp://f"
+0,PMC5711377,"neome sequencing, annotation, and assembly. Details are given in the Materials and methods and this data is available using the PATRIC online bacterial genomics platform. Phylogenetic analysis of the complete genome ("
+0,PMC5716661,"nk-type=""uri"" xlink:href=""https://scicrunch.org/resolver/SCR_003070"">SCR_003070</ext-link>). Source data is available through the&#xA0;Dryad repository (<ext-link ext-link-type=""uri"" xlink:href=""https://doi.org/10.506"
+0,PMC5745082,"pe=""bibr"">Nichols et al., 2011</xref>), using the statsmodels library version 0.6.1. The phenotypic data is available in <xref ref-type=""supplementary-material"" rid=""supp4"">Supplementary file 4</xref>.</p>
+      </sec"
+0,PMC5773178,"Genomic/transcriptomic characterization of mesothelioma cell lines</title>
+          <p>The genomic data is available in the COSMIC database&#xA0;(<xref rid=""bib11"" ref-type=""bibr"">Forbes et al., 2015</xref>) (<ext-li"
+0,PMC5785211,"table RNAP peaks in their promoters. See Materials and methods, ChIP-seq analysis for more details. Data is available in <xref ref-type=""supplementary-material"" rid=""fig3sdata2"">Figure 3&#x2014;source data 2</xref>. T"
+1,PMC5785211,"mml:math id=""inf54""><mml:mo>&#x223C;</mml:mo></mml:math></inline-formula>P levels for more details. Data is available in <xref ref-type=""supplementary-material"" rid=""fig4sdata1"">Figure 4&#x2014;source data 1</xref>. T"
+2,PMC5785211,"ditions is indicated above the plot. See Materials and methods, ChIP-seq analysis for more details. Data is available in <xref ref-type=""supplementary-material"" rid=""fig4sdata2"">Figure 4&#x2014;source data 2</xref>. ("
+3,PMC5785211,"mml:math id=""inf86""><mml:mo>&#x223C;</mml:mo></mml:math></inline-formula>P levels for more details. Data is available in <xref ref-type=""supplementary-material"" rid=""fig5sdata1"">Figure 5&#x2014;source data 1</xref>. T"
+4,PMC5785211,"de data is indicated above the plot. See Materials and methods, ChIP-seq analysis for more details. Data is available in <xref ref-type=""supplementary-material"" rid=""fig5sdata2"">Figure 5&#x2014;source data 2</xref>. ("
+5,PMC5785211,"     <sec id=""s3-4"">
+        <title>Genomics data</title>
+        <p>All high throughput sequencing data is available from the Gene Expression Omnibus with the accession number GSE104204.</p>
+      </sec>
+    </sec>
+ "
+0,PMC5809147,"On readable Matlab and CSV file formats in the form of SPT trajectories at Zenodo. The experimental data is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://zenodo.org/record/834781"">https://zenodo.org/"
+0,PMC5862530,"4"">Figure 4B</xref>) &#x2013; This Figure was modified to include a color-coding by forager ID. The data is available in the source data file.</p>
+      <p><xref ref-type=""fig"" rid=""fig5"">Figure 5C,D</xref> (previousl"
+0,PMC5869019,"been deposited in the NCBI GEO database under accession number GSE106171.</p>
+          <p>LC-MS/MS data is available on the PRIDE Archive EMBL-EBI under the accession number PXD008128</p>
+        </sec>
+      </sec>
+"
+0,PMC5873893,"his question is the following:</p>
+      <p>Is there any other viral infection for which comparable data is available? For instance, it would be nice if data on viruses like HSV or EBV were available along with data r"
+1,PMC5873893,"s question is the following:</p>
+        <p>Is there any other viral infection for which comparable data is available? For instance, it would be nice if data on viruses like HSV or EBV were available along with data r"
+0,PMC5896878,"ady notified us of his intentions to perform such an analysis using the data we made available. Our data is available to anyone with an interest in pursuing such an exploratory analysis.</p>
+      <disp-quote content-"
+0,PMC5896888," starting from the transformation of the variant libraries into yeast.</p>
+      <p>Deep sequencing data is available at GEO with accession number GSE102901 (reviewer token: yvgbkwqajvypvah).</p>
+      <p>All perl and"
+0,PMC5906096,"y-material"" rid=""fig6sdata1"">Figure 6&#x2014;source data 1</xref>. All quantified mass spectrometry data is available in <xref ref-type=""supplementary-material"" rid=""fig3sdata1"">Figure 3&#x2014;source data 1</xref>, a"
+0,PMC5910024,"y prob matrices, either at a population-level or cell-level (for small networks and when enough exp data is available).</p>
+      <p>5) Authors should include more details about the functional model employed since thi"
+1,PMC5910024,"y prob matrices, either at a population-level or cell-level (for small networks and when enough exp data is available).</p>
+      </disp-quote>
+      <p>We agree that the last paragraph was not clearly formulated and "
+0,PMC5933921,"        <title>Data availability</title>
+        <p>A sample of the underlying electrophysiological data is available as Source Data Files 1 and 2. Due to the large size of the the whole dataset, it will be made avail"
+0,PMC5935487," <sec id=""s7"" sec-type=""data-availability"">
+        <title>Data availability</title>
+        <p>The data is available at Dryad Digital Repository.</p>
+        <p>The following dataset was generated:</p>
+        <p>
+  "
+0,PMC5953540,"alysis using DESeq2 (<xref rid=""bib58"" ref-type=""bibr"">Love et al., 2014</xref>). Original sequence data is available from the SRA with project identifier SRP018311.</p>
+        <p>For the purposes of comparative geno"
+0,PMC5953543," <sec id=""s7"" sec-type=""data-availability"">
+        <title>Data availability</title>
+        <p>All data is available on Dryad DOI: <ext-link ext-link-type=""uri"" xlink:href=""https://doi.org/10.5061/dryad.qp745"">https:"
+1,PMC5953543,d have had to happen in <italic>many</italic>different eukaryote lineages for which complete genome data is available. Assuming for the sake of argument a &#x2018;Opimoda/Diphoda&#x2019; root for the tree of eukaryote
+2,PMC5953543,seems implausible because most of the <italic>rquA</italic>-containing eukaryotes for which genomic data is available possess spliceosomal introns in their <italic>rquA</italic> genes. Such introns provide a barrier t
+0,PMC5959720,"href=""http://bioinf.wehi.edu.au/featureCounts"">http://bioinf.wehi.edu.au/featureCounts</ext-link>). Data is available under GSE106790.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec-type=""funding-informat"
+0,PMC5963917,"ng data for <italic>Srsf3</italic>-KO and control iPSCs in GEO Accession Number is GSE113794. iCLIP data is available in the public version of iCount (<ext-link ext-link-type=""uri"" xlink:href=""http://icount.biolab.si"""
+0,PMC5963921,"tal files 4</xref> and <xref ref-type=""supplementary-material"" rid=""supp5"">5</xref>. All additional data is available in the manuscript and supporting files.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <sec sec"
+1,PMC5963921,"ene sets used in analyses in this study are available in supplemental files 4 and 5. All additional data is available in the manuscript and supporting files.</p>
+        <p>The following datasets were generated:</p>
+ "
+0,PMC5963922,"=""s6"" sec-type=""data-availability"">
+        <title>Data availability</title>
+        <p>All primary data is available at the Stowers Institute Original Data Repository (<ext-link ext-link-type=""uri"" xlink:href=""https:"
+0,PMC5976439,"sence of LANA peptide is accessed with search key: c5o2mcxwum.</p>
+        <p>Raw mass spectrometry data is available in the MassIVE repository at UCSD with accession key: MSV000082136</p>
+      </sec>
+      <sec id="""
+0,PMC5986275,"ther tissue, and a value of 15 indicates binding occurs in all 15 mouse tissues where CTCF ChIP-seq data is available. Results show that a large majority of intra-TAD loop anchors are bound by CTCF in at least 10 of t"
+0,PMC5988422,"=""s7"" sec-type=""data-availability"">
+        <title>Data availability</title>
+        <p>Single cell data is available from <ext-link ext-link-type=""uri"" xlink:href=""https://gitlab.com/slcu/teamJL/Gould_etal_2018"">http"
