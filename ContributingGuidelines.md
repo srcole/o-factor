@@ -45,9 +45,9 @@ Once you've identified an issue that you feel you can contribute to, here's how 
 
 1. Describe what you're planning to do as a comment to an issue. Sometimes this can mean making a new issue, such as if you found a bug that you plan to fix for us (thanks!).
 
-	Check in with one of the o-score development team members to make sure you're not overlapping with any current work that is underway, and so that everyone can be on the same page.
+	Check in with one of the o-factor development team members to make sure you're not overlapping with any current work that is underway, and so that everyone can be on the same page.
 
-2. [Fork](https://help.github.com/articles/fork-a-repo/) (aka make a copy of) the o-score repository to your own Github account.
+2. [Fork](https://help.github.com/articles/fork-a-repo/) (aka make a copy of) the o-factor repository to your own Github account.
 
 	You can now do whatever you want with this copy of the project, and you won't mess up anyone else's work in the master repository by accident.
 
@@ -59,9 +59,9 @@ Once you've identified an issue that you feel you can contribute to, here's how 
 
 4. Submit a [pull request](https://help.github.com/articles/about-pull-requests/).
 
-	Someone in the o-score development team will review your changes, discuss them with you if necessary, and hopefully merge them in! Note that you don't have to be ready to merge to make a pull request. Early submissions of pull requests can help us keep track of progress and help you to get earlier feedback.
+	Someone in the o-factor development team will review your changes, discuss them with you if necessary, and hopefully merge them in! Note that you don't have to be ready to merge to make a pull request. Early submissions of pull requests can help us keep track of progress and help you to get earlier feedback.
 
 **Yay! Thanks for your help!**
 
-## Acknowledgments
+## Attribution
 The format and content of these guidelines were adapted from those of the [WhitakerLab](https://github.com/WhitakerLab).
