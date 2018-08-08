@@ -1,59 +1,72 @@
-keyword,category,pre-string
-data is publicly available,1,1
-data are publicly available,1,1
-data are available,1,1
-data can be found,1,1
-data is available,1,1
-data shared,1,1
-datalad,1,0
-genbank,1,0
-gene expression omnibus,1,0
-modeldb,1,0
-neurovault,1,0
-openfmri,1,0
-openneuro,1,0
-osf.io,1,0
-pumadb,1,0
-sequence read archive,1,0
-bash script,2,0
-bitbucket,2,0
-code is publicly available,2,0
-codes are publicly available,2,0
-code is available,2,1
-code is posted,2,1
-code is shared,2,1
-codes are uploaded,2,1
-codes are available,2,1
-codes are posted,2,1
-codes are shared,2,1
-codes is uploaded,2,1
-github,2,0
-jupyter,2,0
-MATLAB,2,0
-open source,2,0
-open-source,2,0
-package in R,2,0
-public repository,2,0
-python script available,2,0
-R package,2,0
-R version,2,0
-repository,2,1
-shell script,2,0
-software is available,2,1
-arxiv,3,0
-biorxiv,3,0
-FigShare,3,0
-PeerJ,3,0
-preprint,3,0
-SSRN,3,0
-code is available on request,4,0
-code is available upon request,4,0
-code shared on request,4,0
-code shared upon request,4,0
-data are available on request,4,0
-data are available upon request,4,0
-data is available on request,4,0
-data is available upon request,4,0
-data shared on request,4,0
-data shared upon request,4,0
-will be shared upon request,4,0
+keyword,category,pre-string,category_description
+data is publicly available,1,1,data_shared
+data are publicly available,1,1,data_shared
+data are available,1,1,data_shared
+data can be found,1,1,data_shared
+data is available,1,1,data_shared
+data are shared,1,1,data_shared
+data is shared,1,1,data_shared
+datalad,1,0,data_shared
+genbank,1,0,data_shared
+gene expression omnibus,1,0,data_shared
+modeldb,1,0,data_shared
+neurovault,1,0,data_shared
+openfmri,1,0,data_shared
+openneuro,1,0,data_shared
+pumadb,1,0,data_shared
+sequence read archive,1,0,data_shared
+bash script,2,0,code_relevant
+MATLAB,2,0,code_relevant
+package in R,2,0,code_relevant
+R package,2,0,code_relevant
+R version,2,0,code_relevant
+repository,2,1,code_relevant
+shell script,2,0,code_relevant
+arxiv,3,0,preprint
+biorxiv,3,0,preprint
+FigShare,3,0,preprint
+PeerJ,3,0,preprint
+preprint,3,0,preprint
+SSRN,3,0,preprint
+data are available on request,4,0,data_upon_request
+data are available upon request,4,0,data_upon_request
+data is available on request,4,0,data_upon_request
+data is available upon request,4,0,data_upon_request
+data shared on request,4,0,data_upon_request
+data shared upon request,4,0,data_upon_request
+data will be shared on request,4,0,data_upon_request
+data will be shared upon request,4,0,data_upon_request
+bitbucket,5,0,code_shared
+code is publicly available,5,0,code_shared
+codes are publicly available,5,0,code_shared
+code is available,5,1,code_shared
+code is posted,5,1,code_shared
+code is shared,5,1,code_shared
+codes are uploaded,5,1,code_shared
+codes are available,5,1,code_shared
+codes are posted,5,1,code_shared
+codes are shared,5,1,code_shared
+codes is uploaded,5,1,code_shared
+github,5,0,code_shared
+jupyter,5,0,code_shared
+open source,5,0,code_shared
+open-source,5,0,code_shared
+public repository,5,0,code_shared
+python script available,5,0,code_shared
+software is available,5,1,code_shared
+code is available on request,6,0,code_upon_request
+code is available upon request,6,0,code_upon_request
+codes are available on request,6,0,code_upon_request
+codes are available upon request,6,0,code_upon_request
+code shared on request,6,0,code_upon_request
+code will be shared on request,6,0,code_upon_request
+code will be shared upon request,6,0,code_upon_request
+codes will be shared on request,6,0,code_upon_request
+codes will be shared upon request,6,0,code_upon_request
+code shared upon request,6,0,code_upon_request
+aspredicted,7,1,preregistration
+pre-registration,7,1,preregistration
+preregistration,7,1,preregistration
+we pre-registered,7,1,preregistration
+we preregistered,7,1,preregistration
+osf.io,8,1,OSF_exploratory
