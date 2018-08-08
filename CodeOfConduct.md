@@ -1,6 +1,6 @@
 # Code of Conduct
 
-We value the participation of every member of the o-score project community and want every contributor to have an enjoyable and fulfilling experience. Accordingly, all contributors are expected to show respect and courtesy to other contributors.
+We value the participation of every member of the o-factor project community and want every contributor to have an enjoyable and fulfilling experience. Accordingly, all contributors are expected to show respect and courtesy to other contributors.
 
 We are dedicated to providing a harassment-free learning experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of text editor. We do not tolerate harassment in any form.
 
@@ -27,7 +27,7 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 **Participants asked to stop any harassing behavior are expected to comply immediately.**
 
-If a participant engages in behavior that violates this code of conduct, the o-score project development team may take any action they deem appropriate, including warning the offender or expulsion from the project. To report an issue, please contact [Rotem Botvinik-Nezer](https://github.com/rotemb9)
+If a participant engages in behavior that violates this code of conduct, the o-factor project development team may take any action they deem appropriate, including warning the offender or expulsion from the project. To report an issue, please contact [Rotem Botvinik-Nezer](https://github.com/rotemb9)
 
 ## Attribution
 
