@@ -1,1 +1,51 @@
-data shared,data is available,data can be found,openneuro,openfmri,neurovault,osf,datalab,github,bitbucket,code is shared,code is available,protocols.io,jupyter, R ,www
+keyword,category,pre-string
+publicly available,0,1
+data are available,1,1
+data can be found,1,1
+data is available,1,1
+data shared,1,1
+datalad,1,0
+genbank,1,0
+gene expression omnibus,1,0
+modeldb,1,0
+neurovault,1,0
+openfmri,1,0
+openneuro,1,0
+osf.io,1,0
+pumadb,1,0
+sequence read archive,1,0
+bash script,2,0
+bitbucket,2,0
+code is available,2,1
+code is posted,2,1
+code is shared,2,1
+codes are uploaded,2,1
+github,2,0
+jupyter,2,0
+MATLAB,2,0
+open source,2,0
+open-source,2,0
+package in R,2,0
+public repository,2,0
+python script available,2,0
+R package,2,0
+R version,2,0
+repository,2,1
+shell script,2,0
+software is available,2,1
+arxiv,3,0
+biorxiv,3,0
+FigShare,3,0
+PeerJ,3,0
+preprint,3,0
+SSRN,3,0
+code is available on request,4,0
+code is available upon request,4,0
+code shared on request,4,0
+code shared upon request,4,0
+data are available on request,4,0
+data are available upon request,4,0
+data is available on request,4,0
+data is available upon request,4,0
+data shared on request,4,0
+data shared upon request,4,0
