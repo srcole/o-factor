@@ -1,4 +1,4 @@
-Keyword,category,pre-string
+keyword,category,pre-string
 publicly available,0,1
 data are available,1,1
 data can be found,1,1
@@ -39,3 +39,13 @@ FigShare,3,0
 PeerJ,3,0
 preprint,3,0
 SSRN,3,0
+code is available on request,4,0
+code is available upon request,4,0
+code shared on request,4,0
+code shared upon request,4,0
+data are available on request,4,0
+data are available upon request,4,0
+data is available on request,4,0
+data is available upon request,4,0
+data shared on request,4,0
+data shared upon request,4,0
