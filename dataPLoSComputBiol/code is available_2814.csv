@@ -1,0 +1,402 @@
+,PMCID,sentence
+0,PMC3916226,"S1</xref>, <xref ref-type=""supplementary-material"" rid=""pcbi.1003471.s009"">S2</xref>. Matlab source code is available for download at <ext-link ext-link-type=""uri"" xlink:href=""http://www.bsse.ethz.ch/ctsb/tools/microg"
+0,PMC3983080,"f> for further details). All programming and simulation was performed in Matlab R2011b (7.13.0) and code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1003546.s001"">Dataset S1</xref>.</p>
+        <"
+0,PMC4140633,"with wrapper scripts that prepare the Genome Comparator outputs and a detailed manual, the relevant code is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://sourceforge.net/projects/bayesianestimatedcor"
+0,PMC4154648,"n.de/impact.html"">http://cellnet.cecad.uni-koeln.de/impact.html</ext-link>.</p>
+      <p>The source code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/SimeoneMarsico/IMPACT"">https://gith"
+0,PMC4168982,"locBuster</title>
+        <sec id=""s4b1"">
+          <title>CCC</title>
+          <p>Our open-source code is available at <ext-link ext-link-type=""uri"" xlink:href=""http://www.blocbuster.org"">www.blocbuster.org</ext-lin"
+0,PMC4177671,"able via the PyPI Python package system through standard tools (easy_install/pip), and their source code is available on GitHub (<ext-link ext-link-type=""uri"" xlink:href=""http://github.com/veg/idepi"">github.com/veg/id"
+0,PMC4207607,"-formula> was assumed uniform over all states if not otherwise noted.</p>
+        <p>All simulation code is available online as <italic><xref ref-type=""supplementary-material"" rid=""pcbi.1003859.s001"">Dataset S1</xref>"
+0,PMC4214557,"ssing with the longest rate, the second diffusion coordinate is the second longest, etc. The LSDMap code is available via SourceForge <xref rid=""pcbi.1003797-Bethune1"" ref-type=""bibr"">[61]</xref>.</p>
+      </sec>
+   "
+0,PMC4222596,"<title>Availability</title>
+        <p>PconsC2 is licensed under the Gnu Public License. The source code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/ElofssonLab/PconsC2/"">https://git"
+0,PMC4222664,"r"">[55]</xref>. Then each obtained image was converted to a vector of length (8&#xD7;8&#xD7;8). The code is available from here: <ext-link ext-link-type=""uri"" xlink:href=""http://people.csail.mit.edu/torralba/code/spat"
+0,PMC4230754,"en-source web-based application developed in the Eclipse IDE (The Eclipse Foundation). Model source code is available for download at the website <ext-link ext-link-type=""uri"" xlink:href=""http://remoto.leb.usp.br/"">ht"
+0,PMC4256015,"ngs are fully available without restriction. All relevant data are within the paper. The simulation code is available from ModelDB, the accession number is 167714: <ext-link ext-link-type=""uri"" xlink:href=""http://sens"
+1,PMC4256015,"ngs are fully available without restriction. All relevant data are within the paper. The simulation code is available from ModelDB, the accession number is 167714: <ext-link ext-link-type=""uri"" xlink:href=""http://sens"
+2,PMC4256015,"ng.</p>
+      <p>We consider a model containing sodium, potassium and chloride ions. The simulation code is available from ModelDB <xref rid=""pcbi.1003941-Hines1"" ref-type=""bibr"">[24]</xref>, the accession number is 1"
+0,PMC4303260,"ilability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All the source code is available on a Github public repository (DOI <ext-link ext-link-type=""uri"" xlink:href=""http://dx.doi.org/10.5"
+1,PMC4303260,"oup>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All the source code is available on a Github public repository (DOI <ext-link ext-link-type=""uri"" xlink:href=""http://dx.doi.org/10.5"
+0,PMC4352062,"/"">https://code.google.com/p/sofast-imagej-plugin/source/browse/</ext-link>. Our MBTFM optimization code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://code.google.com/p/mbtfm/source/browse/"">https:"
+1,PMC4352062,"/"">https://code.google.com/p/sofast-imagej-plugin/source/browse/</ext-link>. Our MBTFM optimization code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://code.google.com/p/mbtfm/source/browse/"">https:"
+0,PMC4361458," simulation environment [<xref rid=""pcbi.1004112.ref038"" ref-type=""bibr"">38</xref>]. The simulation code is available on ModelDB or by request from the corresponding author.</p>
+        <p>
+<bold>Single-compartment mo"
+0,PMC4364883,"ty"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All relevant data and code is available from <ext-link ext-link-type=""uri"" xlink:href=""http://www.cs.utoronto.ca/~juris/data/cmapbatch"">htt"
+1,PMC4364883,"  </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All relevant data and code is available from <ext-link ext-link-type=""uri"" xlink:href=""http://www.cs.utoronto.ca/~juris/data/cmapbatch"">htt"
+0,PMC4370773,"-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Simulation code is available as supporting information.</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </art"
+1,PMC4370773,"a-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Simulation code is available as supporting information.</p>
+    </notes>
+  </front>
+  <body>
+    <sec sec-type=""intro"" id=""sec00"
+0,PMC4415763,"algorithm was implemented in MATLAB (The MathWorks, Inc., Natick, Massachusetts, United States) and code is available as supplementary information (<xref rid=""pcbi.1004187.s001"" ref-type=""supplementary-material"">S1 Fi"
+0,PMC4478025," Boolean simulations [<xref rid=""pcbi.1004338.ref039"" ref-type=""bibr"">39</xref>]. Our custom Python code is available in the supplemental materials.</p>
+      </sec>
+      <sec id=""sec009"">
+        <title>Perturbation"
+0,PMC4495932,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/vrossum/homeostasis"">https://github"
+1,PMC4495932,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/vrossum/homeostasis"">https://github"
+0,PMC4497619,"tp://het.io/disease-genes/browse/"">http://het.io/disease-genes/browse/</ext-link>). Project related code is available from the github repository (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/dhimmel/he"
+1,PMC4497619,"tp://het.io/disease-genes/browse/"">http://het.io/disease-genes/browse/</ext-link>). Project related code is available from the github repository (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/dhimmel/he"
+2,PMC4497619,"tp://het.io/disease-genes/browse/"">http://het.io/disease-genes/browse/</ext-link>). Project related code is available from the github repository (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/dhimmel/he"
+0,PMC4497734,"i"" xlink:href=""https://github.com/genome/gms"">https://github.com/genome/gms</ext-link>). All source code is available on GitHub and all demonstration data is available for download here: <ext-link ext-link-type=""uri"" "
+1,PMC4497734,"i"" xlink:href=""https://github.com/genome/gms"">https://github.com/genome/gms</ext-link>). All source code is available on GitHub and all demonstration data is available for download here: <ext-link ext-link-type=""uri"" "
+0,PMC4503787,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/CellAssembly/SSA-Dynamics"">https://"
+1,PMC4503787,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/CellAssembly/SSA-Dynamics"">https://"
+0,PMC4511233,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/esander91/SignedGroupModel"">https:/"
+1,PMC4511233,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/esander91/SignedGroupModel"">https:/"
+0,PMC4537216,"eposited to the ProteomeXchange Consortium via the PRIDE partner re-pository (accession PXD002140). Code is available through a github repository (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/marcottel"
+1,PMC4537216,"eposited to the ProteomeXchange Consortium via the PRIDE partner re-pository (accession PXD002140). Code is available through a github repository (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/marcottel"
+0,PMC4546203,"te/gabrielkochocker/code"">http://sites.google.com/site/gabrielkochocker/code</ext-link>. Additional code is available on request.</p>
+      </sec>
+      <sec id=""sec023"">
+        <title>Derivation of motif dynamics</t"
+0,PMC4546669,"-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Simulation code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1004449.s009"">S1 File</xref>.</meta-value>
+   "
+1,PMC4546669,"a-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Simulation code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1004449.s009"">S1 File</xref>.</p>
+    </notes>"
+0,PMC4570815," structure</title>
+          <p>The entire model was simulated in MATLAB (The Mathworks, Inc.). The code is available in the supplementary material (<xref rid=""pcbi.1004438.s007"" ref-type=""supplementary-material"">S1 S"
+0,PMC4574939,"s 2003 server platform with the MATLAB Parallel Computing Toolbox. Our input design MBDOE algorithm code is available upon request from the corresponding author.</p>
+        <p>An upper bound on the number of model si"
+0,PMC4605541,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielso/Shotgun"">https://github.co"
+1,PMC4605541,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielso/Shotgun"">https://github.co"
+0,PMC4605714,"-value>All relevant data are within the paper and its Supporting Information files. Project related code is available from GitHub repository (<ext-link ext-link-type=""uri"" xlink:href=""http://github.com/marinkaz/collag"
+1,PMC4605714,"    <p>All relevant data are within the paper and its Supporting Information files. Project related code is available from GitHub repository (<ext-link ext-link-type=""uri"" xlink:href=""http://github.com/marinkaz/collag"
+0,PMC4624436,"th both synthetic and experimental X-ray data. qFit 2.0 is freely available by webserver and source code is available for download at <ext-link ext-link-type=""uri"" xlink:href=""https://simtk.org/home/qfit"">https://simt"
+0,PMC4627721," the responses of a population of neurons to the stimuli used in the behavioral experiments (Matlab code is available on our website: <ext-link ext-link-type=""uri"" xlink:href=""http://www.cns.nyu.edu/heegerlab/"">http:/"
+0,PMC4633124,">Specific implementation</title>
+        <p>The model described here was implemented in MATLAB. All code is available in a figshare digital repository at <ext-link ext-link-type=""uri"" xlink:href=""http://dx.doi.org/10."
+0,PMC4659587,"ref-type=""bibr"">68</xref>]. VDJtools software is free for scientific and non-profit use. The source code is available at GitHub repositories [<xref rid=""pcbi.1004503.ref040"" ref-type=""bibr"">40</xref>] and [<xref rid="""
+0,PMC4689380,"bility"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The matlab source code is available at <ext-link ext-link-type=""uri"" xlink:href=""http://compbio.cs.umn.edu/Net-RSTQ/"">http://compbio.cs"
+1,PMC4689380,">
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The matlab source code is available at <ext-link ext-link-type=""uri"" xlink:href=""http://compbio.cs.umn.edu/Net-RSTQ/"">http://compbio.cs"
+0,PMC4694925,"bility"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The corresponding code is available on github: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/chrhartm/SORN"">https://gith"
+1,PMC4694925,">
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The corresponding code is available on github: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/chrhartm/SORN"">https://gith"
+2,PMC4694925,"067"" ref-type=""bibr"">67</xref>]. For more detailed information and a validation of the results, the code is available on github: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/chrhartm/SORN"">https://gith"
+0,PMC4720485,"5</xref>]. Analysis of the ILS data was performed using an <italic>ad-hoc</italic> TCL program (the code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1004701.s013"">S1</xref>, <xref ref-type=""suppl"
+0,PMC4731197,"-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Simulation code is available from Dryad under DOI: <ext-link ext-link-type=""uri"" xlink:href=""http://dx.doi.org/10.5061/dryad.fs9"
+1,PMC4731197,"a-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Simulation code is available from Dryad under DOI: <ext-link ext-link-type=""uri"" xlink:href=""http://dx.doi.org/10.5061/dryad.fs9"
+0,PMC4731464,"s of the Burrows-Wheeler transform (<xref ref-type=""fig"" rid=""pcbi.1004658.g005"">Fig 5</xref>). The code is available at <ext-link ext-link-type=""uri"" xlink:href=""http://ninja-ops.ninja/"">http://ninja-ops.ninja</ext-l"
+0,PMC4742280,"xt-link-type=""uri"" xlink:href=""http://trident.stjude.org"">http://trident.stjude.org</ext-link>. All code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/stjude"">https://github.com/stjude</"
+1,PMC4742280,"xt-link-type=""uri"" xlink:href=""http://trident.stjude.org"">http://trident.stjude.org</ext-link>. All code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/stjude"">https://github.com/stjude</"
+0,PMC4758641,"code, thus providing an unambiguous description of the model&#x2019;s operation (note that our full code is available online).</p>
+      <p specific-use=""line"">
+        <monospace>% Network activities are computed ite"
+0,PMC4771709,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/xjwanglab/pycog"">https://github.com"
+1,PMC4771709,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/xjwanglab/pycog"">https://github.com"
+0,PMC4777484,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All code is available at GitHub (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/SantamariaLab/PowerLawHH"">h"
+1,PMC4777484,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All code is available at GitHub (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/SantamariaLab/PowerLawHH"">h"
+2,PMC4777484,"ne them as an Input Parameter Vector and organizes the results and products of each simulation. All code is available at GitHub (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/SantamariaLab/PowerLawHH"">h"
+0,PMC4783075,"nerated with the R package ggplot2 [<xref rid=""pcbi.1004796.ref013"" ref-type=""bibr"">13</xref>]. The code is available on <ext-link ext-link-type=""uri"" xlink:href=""http://github.com/liesb/BIITE"">http://github.com/liesb"
+0,PMC4803338,"ilability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The simulation code is available in the ModelDB database under the accession number 187603 (<ext-link ext-link-type=""uri"" xlink:href"
+1,PMC4803338,"oup>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The simulation code is available in the ModelDB database under the accession number 187603 (<ext-link ext-link-type=""uri"" xlink:href"
+2,PMC4803338,"sub> = 40,000 &#x3A9;cm<sup>2</sup>; leak reversal potential E<sub>L</sub> = -70 mV. The simulation code is available in the ModelDB database under the accession number 187603 (<ext-link ext-link-type=""uri"" xlink:href"
+0,PMC4829193,"tious periods. Analysis was conducted in R 3.2 (<monospace>cran.r-project.org</monospace>), and the code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1004869.s007"">S3 Text</xref>.</p>
+        <fig"
+0,PMC4836732,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available on Model DB, <ext-link ext-link-type=""uri"" xlink:href=""https://senselab.med.yale.edu/ModelDB/ShowMo"
+1,PMC4836732,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available on Model DB, <ext-link ext-link-type=""uri"" xlink:href=""https://senselab.med.yale.edu/ModelDB/ShowMo"
+0,PMC4866734,"a-name>
+          <meta-value>All data, as analysed and processed in the manuscript, and associated code is available in the pRolocdata (<ext-link ext-link-type=""uri"" xlink:href=""http://bioconductor.org/packages/relea"
+1,PMC4866734,"Availability</title>
+      <p>All data, as analysed and processed in the manuscript, and associated code is available in the pRolocdata (<ext-link ext-link-type=""uri"" xlink:href=""http://bioconductor.org/packages/relea"
+0,PMC4874630,"and pathway elements. These steps are described further below. The converter is open source and the code is available from the GitHub repository [<xref rid=""pcbi.1004941.ref055"" ref-type=""bibr"">55</xref>].</p>
+       "
+1,PMC4874630,"isualized, the font and size of text of the label can be changed. The plugin is open source and the code is available from the GitHub repository [<xref rid=""pcbi.1004941.ref061"" ref-type=""bibr"">61</xref>]. A detailed "
+0,PMC4915700," involving 12 samples and 800 million reads, in less than three days on a single server. All source code is available here: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielhuson/megan-ce"">https://gi"
+1,PMC4915700,"-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All source code is available here: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielhuson/megan-ce"">https://gi"
+2,PMC4915700,"a-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All source code is available here: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielhuson/megan-ce"">https://gi"
+3,PMC4915700,"
+      <p>MEGAN Community Edition is free software under the GNU General Public License. All source code is available here: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/danielhuson/megan-ce"">https://gi"
+0,PMC4919057,"ped in Java and JavaScript, utilizing an Apache Tomcat web server and MySQL database and the source code is available under the GPLV3 license available on GitHub: <ext-link ext-link-type=""uri"" xlink:href=""https://gith"
+0,PMC4954643,"gether outperform existing miRNA target prediction algorithms on held-out binding data. Open source code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://bitbucket.org/leslielab/chimiric"">https://bitb"
+0,PMC4966924,"type=""uri"" xlink:href=""http://www.phylobot.com/"">http://www.phylobot.com</ext-link>, and its source code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/vhsvhs/phylobot-django"">https://git"
+0,PMC4991839,"merical results. The bifurcation and phase-plane analyses were carried out in XPPAUT 7.0. The model code is available on ModelDB (<ext-link ext-link-type=""uri"" xlink:href=""https://senselab.med.yale.edu/modeldb/"">https"
+0,PMC5012591,"ter than 10 seconds because short trajectories resulted in inaccurate tumble bias calculations (the code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/dufourya/SwimTracker"">https://githu"
+1,PMC5012591,"ugh the Micro-Manager core library [<xref rid=""pcbi.1005041.ref078"" ref-type=""bibr"">78</xref>] (the code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/dufourya/FAST"">https://github.com/d"
+0,PMC5140062,"<meta-value>All relevant data are within the paper and its Supporting Information files. The source code is available on Github: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/mktranstrum/LimitsExptDesig"
+1,PMC5140062,"e>
+      <p>All relevant data are within the paper and its Supporting Information files. The source code is available on Github: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/mktranstrum/LimitsExptDesig"
+0,PMC5161304," of scripts that can be used to train a classifier and predict NMIs in a set of DNA sequences. This code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/matthuska/predict-nmi"">https://gith"
+0,PMC5189946,"f-type=""bibr"">44</xref>].</p>
+        <p>All of this analysis was implemented using Matlab, and the code is available for download from a public GitHub repository <ext-link ext-link-type=""uri"" xlink:href=""https://gith"
+0,PMC5268412,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/laurentperrinet/Khoei_2017_PLoSCB"">"
+1,PMC5268412,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/laurentperrinet/Khoei_2017_PLoSCB"">"
+2,PMC5268412,"e of these parameters, we built a computational framework to test different parameters ranges. This code is available as a collection of iPython notebooks which allow to reproduce each figure of this paper but also to"
+0,PMC5283767,"e sensitivity analysis uses the packages &#x201C;sensitivity&#x201D; and &#x201C;rpart&#x201D;. The code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/AndySouth/resistance"">https://githu"
+0,PMC5300119,"://www.cfenet.ubc.ca/research/homer"">http://www.cfenet.ubc.ca/research/homer</ext-link>. The source code is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/pityka/mybiotools/tree/hivheritabi"
+1,PMC5300119,"://www.cfenet.ubc.ca/research/homer"">http://www.cfenet.ubc.ca/research/homer</ext-link>. The source code is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/pityka/mybiotools/tree/hivheritabi"
+0,PMC5370160,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/j-friedrich/OASIS"">https://github.c"
+1,PMC5370160,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All code is available on <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/j-friedrich/OASIS"">https://github.c"
+0,PMC5386296,"uence verified.</p>
+      </sec>
+      <sec id=""sec019"">
+        <title>Code</title>
+        <p>All code is available from the Mechismo website, mechismo.russelllab.org/downloads.</p>
+      </sec>
+      <sec id=""sec02"
+0,PMC5435348,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available via <ext-link ext-link-type=""uri"" xlink:href=""https://sourceforge.net/projects/cyclops-simulations/"
+1,PMC5435348,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available via <ext-link ext-link-type=""uri"" xlink:href=""https://sourceforge.net/projects/cyclops-simulations/"
+0,PMC5444858,"ential of FIMTrack we provide an evaluation of its accuracy using manually labeled data. The source code is available under the GNU GPLv3 at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/i-git/FIMTrack"""
+1,PMC5444858,"-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>The source code is available under the GNU GPLv3 at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/i-git/FIMTrack"""
+2,PMC5444858,"a-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>The source code is available under the GNU GPLv3 at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/i-git/FIMTrack"""
+0,PMC5481150,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/jaekkim/feedme"">https://github.com/"
+1,PMC5481150,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/jaekkim/feedme"">https://github.com/"
+0,PMC5507472,"me integration of the latter models, as well as example scripts demonstrating (i)&#x2013;(iii). The code is available as open source software under a free license at GitHub: <ext-link ext-link-type=""uri"" xlink:href=""h"
+0,PMC5519008," biomass composition of the organisms into individual biomass building blocks (BBB). lumpGEM source code is available in <xref ref-type=""supplementary-material"" rid=""pcbi.1005513.s003"">S3 File</xref>.</p>
+      <p>In "
+0,PMC5536358,"ng the CPLEX solver accessed from GAMS on a 3.4 GHz Intel Core i7 CPU with 32 GB of RAM. The source code is available in the supporting information (<xref ref-type=""supplementary-material"" rid=""pcbi.1005618.s014"">S1 F"
+0,PMC5550005,"      <sec id=""sec021"">
+          <title>Data and source code availability</title>
+          <p>Our code is available in the form of a Jupyter Notebook (<ext-link ext-link-type=""uri"" xlink:href=""http://ipython.org/not"
+0,PMC5576755,".r-project.org"">https://cran.r-project.org</ext-link>), the tree-aware sparse discriminant analysis code is available as the R package <monospace>treeDA</monospace> available on CRAN.</p>
+        <p>All code <monospac"
+0,PMC5604991,"minutes to assemble matrices and 20 seconds to solve for each stimulating frequency. The simulation code is available through the research webpage of the corresponding author.</p>
+      </sec>
+      <sec id=""sec017"">
+"
+0,PMC5621705,"<italic>V</italic> and the algorithm for learning models from data can be found in Methods, and our code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/jhumplik/generative-neural-models"">"
+0,PMC5658169,"type=""uri"" xlink:href=""http://crista.tau.ac.il/"">http://crista.tau.ac.il/</ext-link> and the source code is available for offline use. The server provides three optional entry points: (1) given a set of nucleotide tar"
+0,PMC5669499,"ta-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Software code is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/eakbas/FoveatedObjectDetector"">htt"
+1,PMC5669499,"eta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Software code is available at: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/eakbas/FoveatedObjectDetector"">htt"
+0,PMC5675460,"lity</meta-name>
+          <meta-value>All relevant data are contained within the paper. Simulation code is available from the ModelDB database (<ext-link ext-link-type=""uri"" xlink:href=""http://modeldb.yale.edu/233509"
+1,PMC5675460,"tle>Data Availability</title>
+      <p>All relevant data are contained within the paper. Simulation code is available from the ModelDB database (<ext-link ext-link-type=""uri"" xlink:href=""http://modeldb.yale.edu/233509"
+0,PMC5690689,"evant data are within the paper and its Supporting Information files. However, relevant Mathematica code is available from the Purdue University Research Repository: Romano, D., Pharris, M. C., Patel, N., Kinzer-Ursem"
+1,PMC5690689,"evant data are within the paper and its Supporting Information files. However, relevant Mathematica code is available from the Purdue University Research Repository: Romano, D., Pharris, M. C., Patel, N., Kinzer-Ursem"
+0,PMC5695636,"ing mixture substructure in true breast cancer CNV data from the Cancer Genome Atlas (TCGA). Source code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/tedroman/WSCUnmix"">https://github.c"
+0,PMC5703587,"ta id=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Code is available in this github repository: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/gomena/spik"
+1,PMC5703587,"/custom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Code is available in this github repository: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/gomena/spik"
+0,PMC5706731,"lity</meta-name>
+          <meta-value>All relevant data are contained within the paper. Simulation code is available from the ModelDB database (<ext-link ext-link-type=""uri"" xlink:href=""http://modeldb.yale.edu/232097"
+1,PMC5706731,"tle>Data Availability</title>
+      <p>All relevant data are contained within the paper. Simulation code is available from the ModelDB database (<ext-link ext-link-type=""uri"" xlink:href=""http://modeldb.yale.edu/232097"
+0,PMC5774830,"d=""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All code is available on Github (<ext-link ext-link-type=""uri"" xlink:href=""https://goo.gl/g1xnJR"">https://goo.gl/g1xnJR</"
+1,PMC5774830,"tom-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All code is available on Github (<ext-link ext-link-type=""uri"" xlink:href=""https://goo.gl/g1xnJR"">https://goo.gl/g1xnJR</"
+0,PMC5777656,"culated as the average pairwise relatedness from all 20-choose-2 comparisons.</p>
+        <p>Source code is available on GitHub, under the project name Cotransmission (<ext-link ext-link-type=""uri"" xlink:href=""https:/"
+0,PMC5786322,"rmed with a modified version of uTrack [<xref rid=""pcbi.1005927.ref092"" ref-type=""bibr"">92</xref>]. Code is available on the Heteromotility GitHub page. All code for the Heteromotility tool is available on the Heterom"
+0,PMC5786340,". An expanded section with all equations can be found in the supplemental material section. The C++ code is available via our website.</p>
+      </sec>
+    </sec>
+    <sec id=""sec009"">
+      <title>Results and discuss"
+0,PMC5798846,"data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Source code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/gdiminin/HaSAPPy"">https://github."
+1,PMC5798846,"-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Source code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/gdiminin/HaSAPPy"">https://github."
+2,PMC5798846,"ec013"">
+        <title>Datasets, genome assemblies, and accession numbers</title>
+        <p>Source code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/gdiminin/HaSAPPy"">https://github."
+0,PMC5802927," <sec id=""sec016"">
+      <title>Availability</title>
+      <p>The MUMmer4 software including source code is available under an open source license at <ext-link ext-link-type=""uri"" xlink:href=""http://mummer4.github.io"""
+0,PMC5815621,"uri"" xlink:href=""http://dx.doi.org/10.23686/0070127"">http://dx.doi.org/10.23686/0070127</ext-link>. Code is available in the github repository pwdonh/ies_toolbox.</meta-value>
+        </custom-meta>
+      </custom-met"
+1,PMC5815621,"uri"" xlink:href=""http://dx.doi.org/10.23686/0070127"">http://dx.doi.org/10.23686/0070127</ext-link>. Code is available in the github repository pwdonh/ies_toolbox.</p>
+    </notes>
+  </front>
+  <body>
+    <disp-quote>
+"
+0,PMC5828511,"</title>
+      <p>All analyses and simulations were written in the Python programming language. All code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/rkp8000/wind_tunnel"">https://github"
+0,PMC5834207,">
+      <title>Methods</title>
+      <p>The dynamical microtubule model was implemented in C++. The code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://gitlab.com/slcu/teamHJ/vincent/microtubule_s"
+0,PMC5841816,"-link ext-link-type=""uri"" xlink:href=""http://meguk.ac.uk"">http://meguk.ac.uk</ext-link>. Simulation code is available via GitHub at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/OHBA-analysis/abeysuriya"
+1,PMC5841816,"-link ext-link-type=""uri"" xlink:href=""http://meguk.ac.uk"">http://meguk.ac.uk</ext-link>. Simulation code is available via GitHub at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/OHBA-analysis/abeysuriya"
+0,PMC5862519,"5720</ext-link>. Instructions for reproducing the study figures are included in the archive. Source code is available under a BSD-3 Clause license and other data under a Creative Commons CC-BY-4 license.</p>
+      </s"
+0,PMC5882158,"=""https://crcns.org/data-sets/thalamus/th-1"">https://crcns.org/data-sets/thalamus/th-1</ext-link>). Code is available online in a raw form and as a Jupyter notebook to present some of the analyses (<ext-link ext-link-"
+1,PMC5882158,"=""https://crcns.org/data-sets/thalamus/th-1"">https://crcns.org/data-sets/thalamus/th-1</ext-link>). Code is available online in a raw form and as a Jupyter notebook to present some of the analyses (<ext-link ext-link-"
+2,PMC5882158,">
+        <p>The analyses presented in this report were run on Matlab (Mathworks, 2017) and Python. Code is available online in a raw form and as a Jupyter notebook to present some of the analyses (<ext-link ext-link-"
+0,PMC5886578,"link>, accessions FR-FCM-ZYGG, FR-FCM-ZYHQ, FR-FCM-ZYHP, FR-FCM-ZYHX, and FR-FCM-ZYGF. Model Matlab code is available as supporting information file S1 Code, which also possesses the remainder of the experimental data"
+1,PMC5886578,"link>, accessions FR-FCM-ZYGG, FR-FCM-ZYHQ, FR-FCM-ZYHP, FR-FCM-ZYHX, and FR-FCM-ZYGF. Model Matlab code is available as supporting information file S1 Code, which also possesses the remainder of the experimental data"
+0,PMC5927460,"csd.edu/ProteoSAFe/static/gnps-theoretical.jsp</ext-link>, under the workflow name NAP_CCMS and the code is available at github (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/DorresteinLaboratory/NAP_Pr"
+1,PMC5927460,"csd.edu/ProteoSAFe/static/gnps-theoretical.jsp</ext-link>, under the workflow name NAP_CCMS and the code is available at github (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/DorresteinLaboratory/NAP_Pr"
+2,PMC5927460,"SAFe/"">http://proteomics2.ucsd.edu/ProteoSAFe/</ext-link>, under the workflow name NAP_CCMS and the code is available at github (<ext-link ext-link-type=""uri"" xlink:href=""https://github.com/DorresteinLaboratory/NAP_Pr"
+0,PMC5962104,"lab/add_my_pet/index.html"">http://www.bio.vu.nl/thb/deb/deblab/add_my_pet/index.html</ext-link> All code is available on public repositories in GitHub: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/add-"
+1,PMC5962104,"lab/add_my_pet/index.html"">http://www.bio.vu.nl/thb/deb/deblab/add_my_pet/index.html</ext-link> All code is available on public repositories in GitHub: <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/add-"
+0,PMC5993325,"""data-availability"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>Model code is available online at <ext-link ext-link-type=""uri"" xlink:href=""https://engineering.jhu.edu/lcap/index.php?id=s"
+1,PMC5993325,"m-meta-group>
+    </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>Model code is available online at <ext-link ext-link-type=""uri"" xlink:href=""https://engineering.jhu.edu/lcap/index.php?id=s"
+2,PMC5993325,"bservations sequentially given previous observations in the presence of unknown changepoints. Model code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://engineering.jhu.edu/lcap/"">https://engineering"
+0,PMC5997358,"ty"">
+          <meta-name>Data Availability</meta-name>
+          <meta-value>All data and analysis code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/berenslab/spikefinder_analysis"">h"
+1,PMC5997358,"  </article-meta>
+    <notes>
+      <title>Data Availability</title>
+      <p>All data and analysis code is available from <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/berenslab/spikefinder_analysis"">h"
+0,PMC6053252," the AUTO feature of XPPAUT [<xref rid=""pcbi.1006292.ref025"" ref-type=""bibr"">25</xref>]. Simulation code is available for download at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/jhgoldwyn/Gain-Control"
+0,PMC6061994,"im is an open-source project with dozens of contributors and thousands of users. The OpenSim source code is available under the permissive Apache License 2.0, making OpenSim suitable for any academic, commercial, gove"
+1,PMC6061994,"mercial, government, or personal use (some dependencies have more restrictive licenses). The source code is available on GitHub at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/opensim-org/opensim-core"""
+0,PMC6063401,", with core computations in C for increased performance (via <italic>mex</italic> files in MATLAB). Code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/lacerbi/visvest-causinf"">https://gi"
+1,PMC6063401,"</xref> for a derivation of <xref ref-type=""disp-formula"" rid=""pcbi.1006110.e066"">Eq 18</xref>, and code is available at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/lacerbi/gofit"">https://github.com/l"
