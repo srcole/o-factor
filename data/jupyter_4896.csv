@@ -1,0 +1,73 @@
+,PMCID,sentence
+0,PMC4755742,"Supplementary file 1</xref>&#xA0;and&#xA0;<ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+1,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>. (<bold><bold>H</bold></bold>) EdU was inject"
+2,PMC4755742,"and cell cycle parameters is available at <ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+3,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>.</p><p><bold>DOI:</bold>
+<ext-link ext-link-t"
+4,PMC4755742,"ately equal for all cell populations (see <ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+5,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>), the number of proliferating cells in a sect"
+6,PMC4755742,"data and the calculations can be found in <ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+7,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>.</p>
+      </sec>
+      <sec id=""s4-9"">
+     "
+8,PMC4755742," the parameter estimation can be found in <ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+9,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>.</p>
+        <p>Because all mitotic cells wer"
+10,PMC4755742,"/italic> by linear error propagation (see <ext-link ext-link-type=""uri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b"
+11,PMC4755742,"ri"" xlink:href=""http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba"">http://nbviewer.jupyter.org/gist/fabianrost84/3cc58a27b5688f4e2eba</ext-link>).</p>
+      </sec>
+      <sec id=""s4-12"">
+   "
+0,PMC4841782,"/2/, including both neural data and behavioral regressors. And an example analysis in the form of a Jupyter notebook are included as Supplementary Files (spontaneous-turning.html, spontaneous-turning.ipynb);"
+0,PMC4951199,"recover from surgery before awake imaging experiments. Analysis code was written in Python and used Jupyter notebooks. Code, data, and CAD models are available at <ext-link ext-link-type=""uri"" xlink:href=""ht"
+0,PMC5148610,"/p>
+      </sec>
+      <sec id=""s4-7"">
+        <title>Data and code availability</title>
+        <p>Jupyter notebooks and data for reproducing our analysis and main figures are available online at <ext-link "
+0,PMC5182066,"ri"" xlink:href=""http://github.com/rossant/ipycache"">http://github.com/rossant/ipycache</ext-link>), Jupyter Notebook (<ext-link ext-link-type=""uri"" xlink:href=""http://jupyter.org/"">http://jupyter.org/</ext-l"
+1,PMC5182066,"om/rossant/ipycache</ext-link>), Jupyter Notebook (<ext-link ext-link-type=""uri"" xlink:href=""http://jupyter.org/"">http://jupyter.org/</ext-link>), matplotlib (<xref rid=""bib13"" ref-type=""bibr"">Hunter, 2007</"
+2,PMC5182066,"ext-link>), Jupyter Notebook (<ext-link ext-link-type=""uri"" xlink:href=""http://jupyter.org/"">http://jupyter.org/</ext-link>), matplotlib (<xref rid=""bib13"" ref-type=""bibr"">Hunter, 2007</xref>), numba (<ext-l"
+3,PMC5182066,".</p>
+      </sec>
+      <sec id=""s4-16"">
+        <title>Supplementary notebooks</title>
+        <p>Jupyter Notebooks containing the source code for all computations performed together with the data and refe"
+0,PMC5218535,"a field sign map from altitude and azimuth maps, in HTML format. The same example is available as a Jupyter notebook at <ext-link ext-link-type=""uri"" xlink:href=""https://github.com/zhuangjun1981/retinotopic_"
+0,PMC5446239,"asilab/ferrin_elife_2017</ext-link> (<xref rid=""bib49"" ref-type=""bibr"">Subramaniam, 2017</xref>) as Jupyter notebooks (<xref rid=""bib37"" ref-type=""bibr"">Perez and Granger, 2007</xref>).</p>
+      </sec>
+    "
+1,PMC5446239,"asilab/ferrin_elife_2017</ext-link> (<xref rid=""bib49"" ref-type=""bibr"">Subramaniam, 2017</xref>) as Jupyter notebooks (<xref rid=""bib37"" ref-type=""bibr"">Perez and Granger, 2007</xref>).</p>
+      </sec>
+    "
+2,PMC5446239,"asilab/ferrin_elife_2017</ext-link> (<xref rid=""bib49"" ref-type=""bibr"">Subramaniam, 2017</xref>) as Jupyter notebooks (<xref rid=""bib37"" ref-type=""bibr"">Perez and Granger, 2007</xref>). Parameters common to "
+0,PMC5762155,". Code is publicly available (<xref rid=""bib13"" ref-type=""bibr"">Denman, 2017</xref>) and includes a Jupyter notebook that contains code for generation of our figures from the data. Data from each training se"
+0,PMC5826275,"s4-5"">
+        <title>Computational analysis of single-cell mRNA sequencing data</title>
+        <p>Jupyter notebooks that perform all of the computational analyses are available in <xref ref-type=""supplemen"
+1,PMC5826275,"ene matrix is in <xref ref-type=""supplementary-material"" rid=""supp2"">Supplementary file 2</xref>. A Jupyter notebook that performs these analyses is in <xref ref-type=""supplementary-material"" rid=""supp1"">Sup"
+2,PMC5826275,"=""bibr"">Qiu et al., 2017</xref>; <xref rid=""bib94"" ref-type=""bibr"">Trapnell et al., 2014</xref>). A Jupyter notebook that performs these analyses is in <xref ref-type=""supplementary-material"" rid=""supp1"">Sup"
+3,PMC5826275,"ion>
+          <title>Computer code for the analyses.</title>
+          <p>This ZIP file contains a Jupyter notebook that runs CellRanger to align and annotate the reads, and a Jupyter notebook that uses Mon"
+4,PMC5826275,"is ZIP file contains a Jupyter notebook that runs CellRanger to align and annotate the reads, and a Jupyter notebook that uses Monocle to analyze the cell-gene matrix. The ZIP file also includes associated c"
+0,PMC5832410,"specify and install dependencies for both Python and R. We performed our analyses using a series of Jupyter notebooks. In general, data integration and manipulation were performed in Python 3, relying heavil"
+0,PMC5908442,"le>Data availability</title>
+        <p>We have compiled all input data, output files, and scripts (Jupyter notebooks) used to write this manuscript in a GitHub repository (<ext-link ext-link-type=""uri"" xlin"
+0,PMC5910023,"ncing are on the Sequence Read Archive under the accession numbers provided at the beginning of the Jupyter notebook in <xref ref-type=""supplementary-material"" rid=""supp1"">Supplementary file 1</xref> and <xr"
+1,PMC5910023,"b.github.io/dms_tools2/prefs.html"">https://jbloomlab.github.io/dms-tools2/prefs.html</ext-link>). A Jupyter notebook that performs the entire analysis including generation of most of the figures in this pape"
+2,PMC5910023,"ps://github.com/elifesciences-publications/EnvMutationalShiftsPaper</ext-link>).</p>
+        <p>The Jupyter notebooks in <xref ref-type=""supplementary-material"" rid=""supp1"">Supplementary file 1</xref> and <x"
+3,PMC5910023,"ps in the analysis is in analysis_code.zip.</title>
+          <p>Specifically, this file contains a Jupyter notebook that performs the analysis, all required input data, and all reasonably sized output files"
+4,PMC5910023,"ook that performs the analysis, all required input data, and all reasonably sized output files. The Jupyter notebook downloads the deep sequencing data, processes it with the dms_tools2 software (<xref rid="""
+5,PMC5910023,"   <label>Supplementary file 2.</label>
+        <caption>
+          <title>An HTML rendering of the Jupyter notebook that performs the computational analysis.</title>
+          <p>The actual notebook is in <"
+0,PMC5991832,"
+            </name>
+          </person-group>
+          <year>2017</year>
+          <article-title>Jupyter and galaxy: easing entry barriers into complex data analyses for biomedical researchers</article-ti"
