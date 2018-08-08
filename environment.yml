@@ -1,0 +1,17 @@
+name: o_factor_env
+channels:
+- defaults
+dependencies:
+- python>=3.6
+- pip
+- numpy
+- matplotlib
+- pandas
+- jupyter
+- requests
+- statsmodels
+- seaborn
+
+- pip:
+  - lxml
+  - beautifulsoup4
