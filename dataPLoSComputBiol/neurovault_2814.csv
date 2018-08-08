@@ -1,0 +1,83 @@
+,PMCID,sentence
+0,PMC5673235,"name>
+          <meta-value>Data are available at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/ETRQWPUH/"">https://neurovault.org/collections/ETRQWPUH/</ext-link>.</meta-value>
+  "
+1,PMC5673235," at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/ETRQWPUH/"">https://neurovault.org/collections/ETRQWPUH/</ext-link>.</meta-value>
+        </custom-meta>
+      </custom-meta-group"
+2,PMC5673235,"ailability</title>
+      <p>Data are available at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/ETRQWPUH/"">https://neurovault.org/collections/ETRQWPUH/</ext-link>.</p>
+    </notes"
+3,PMC5673235," at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/ETRQWPUH/"">https://neurovault.org/collections/ETRQWPUH/</ext-link>.</p>
+    </notes>
+  </front>
+  <body>
+    <sec sec-type=""intro"
+0,PMC5683652,"-link>. For the decoding analyses, nearly all maps used in this paper can be freely downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>)"
+1,PMC5683652,"is paper can be freely downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>), the FreeSurferWiki (<ext-link ext-link-type=""uri"" xlink:hre"
+2,PMC5683652,"downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>), the FreeSurferWiki (<ext-link ext-link-type=""uri"" xlink:href=""http://freesurfer.ne"
+3,PMC5683652,"-link>. For the decoding analyses, nearly all maps used in this paper can be freely downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>)"
+4,PMC5683652,"is paper can be freely downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>), the FreeSurferWiki (<ext-link ext-link-type=""uri"" xlink:hre"
+5,PMC5683652,"downloaded from NeuroVault (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org"">http://neurovault.org</ext-link>), the FreeSurferWiki (<ext-link ext-link-type=""uri"" xlink:href=""http://freesurfer.ne"
+6,PMC5683652,"-link ext-link-type=""uri"" xlink:href=""http://neurosynth.org/"">http://neurosynth.org</ext-link>) and NeuroVault [<xref rid=""pcbi.1005649.ref065"" ref-type=""bibr"">65</xref>] (<ext-link ext-link-type=""uri"" xlink:hr"
+7,PMC5683652,"=""pcbi.1005649.ref065"" ref-type=""bibr"">65</xref>] (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/"">http://neurovault.org</ext-link>) platforms. At present, researchers can upload arbitrary who"
+8,PMC5683652,"ef-type=""bibr"">65</xref>] (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/"">http://neurovault.org</ext-link>) platforms. At present, researchers can upload arbitrary whole-brain maps to the Neu"
+9,PMC5683652,"ult.org</ext-link>) platforms. At present, researchers can upload arbitrary whole-brain maps to the NeuroVault repository and instantly decode them against the entire Neurosynth database. This decoding function"
+10,PMC5683652,"aterial"" rid=""pcbi.1005649.s002"">S1 Fig</xref> and <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/EBAYVDBZ/"">neurovault.org/collections/EBAYVDBZ/</ext-link>). As illustrated, the mo"
+11,PMC5683652,"g</xref> and <ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/collections/EBAYVDBZ/"">neurovault.org/collections/EBAYVDBZ/</ext-link>). As illustrated, the model produced numerous topics that had "
+12,PMC5683652,"     <p>To more formally assess the performance of the decoder in an unbiased way, we used a set of NeuroVault images that were previously manually annotated using labels derived from the Cognitive Atlas ontolo"
+13,PMC5683652,";an impressive value considering the open-ended nature of the task and the unfiltered nature of the NeuroVault database (i.e., there is no guarantee that the images uploaded to Neurovault actually reflect the p"
+14,PMC5683652,"filtered nature of the NeuroVault database (i.e., there is no guarantee that the images uploaded to Neurovault actually reflect the processes they are intended to reflect&#x2014;a point we discuss further in th"
+15,PMC5683652,"ady converge closely with prior literature. Moreover, the integration of our topics with the public NeuroVault repository ensures that researchers will always be able to apply the most current topic sets to the"
+16,PMC5683652,"l adoption of whole-brain images repositories like <ext-link ext-link-type=""uri"" xlink:href=""http://NeuroVault.org"">NeuroVault.org</ext-link>. We are optimistic that in the relatively near future, we will be ab"
+17,PMC5683652,"ole-brain images repositories like <ext-link ext-link-type=""uri"" xlink:href=""http://NeuroVault.org"">NeuroVault.org</ext-link>. We are optimistic that in the relatively near future, we will be able to use the to"
+18,PMC5683652,uage-Math condition; between social and non-social motion in the Social Cognition task. (2) <italic>NeuroVault</italic>.<italic>org maps</italic>. We downloaded two sets of maps from the NeuroVault whole-brain 
+19,PMC5683652, (2) <italic>NeuroVault</italic>.<italic>org maps</italic>. We downloaded two sets of maps from the NeuroVault whole-brain image repository: (i) a completely random set of 100 images (subject to the constraint 
+20,PMC5683652,"rom a different image collection, to maximize independence of images), and (ii) a random set of 300 NeuroVault images that had been previously manually annotated using the Cognitive Atlas ontology for a complet"
+21,PMC5683652,"d in the standard MNI152 2mm space. Images that were not nominally in this space (e.g., many of the NeuroVault maps) were transformed to the target using an affine transformation with continuous interpolation ("
+22,PMC5683652," reported here are available as a collection of interactive, downloadable whole-brain maps from the NeuroVault website (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/"">http://neurovault.org</e"
+23,PMC5683652,"able whole-brain maps from the NeuroVault website (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/"">http://neurovault.org</ext-link>).</p>
+      </sec>
+    </sec>
+    <sec sec-type=""supplementa"
+24,PMC5683652,"om the NeuroVault website (<ext-link ext-link-type=""uri"" xlink:href=""http://neurovault.org/"">http://neurovault.org</ext-link>).</p>
+      </sec>
+    </sec>
+    <sec sec-type=""supplementary-material"" id=""sec016"""
+25,PMC5683652,"nents reported in Smith et al. [<xref rid=""pcbi.1005649.ref015"" ref-type=""bibr"">15</xref>]. (B) the NeuroVault whole-brain image repository [<xref rid=""pcbi.1005649.ref002"" ref-type=""bibr"">2</xref>], and (C) si"
+26,PMC5683652,"abel>
+        <caption>
+          <title>Topic reconstruction of 100 random maps extracted from the NeuroVault whole-brain image repository.</title>
+          <p>Labels in white indicate human-annotated cogniti"
+27,PMC5683652,"y>
+  <back>
+    <ack>
+      <p>The authors wish to thank Vanessa Sochat for contributing the manual NeuroVault annotations.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type=""other"" id=""fn001"">
+        <p>&#x262F"
+28,PMC5683652,"n-names></name>, <etal>et al</etal>
+<article-title><ext-link ext-link-type=""uri"" xlink:href=""http://NeuroVault.org"">NeuroVault.org</ext-link>: a web-based repository for collecting and sharing unthresholded sta"
+29,PMC5683652," <etal>et al</etal>
+<article-title><ext-link ext-link-type=""uri"" xlink:href=""http://NeuroVault.org"">NeuroVault.org</ext-link>: a web-based repository for collecting and sharing unthresholded statistical maps of"
+0,PMC5714382,"-name>
+          <meta-value>Data is available at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3128/"">https://neurovault.org/collections/3128/</ext-link></meta-value>
+        </c"
+1,PMC5714382,"able at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3128/"">https://neurovault.org/collections/3128/</ext-link></meta-value>
+        </custom-meta>
+      </custom-meta-group>
+   "
+2,PMC5714382,"vailability</title>
+      <p>Data is available at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3128/"">https://neurovault.org/collections/3128/</ext-link></p>
+    </notes>
+  </fro"
+3,PMC5714382,"able at <ext-link ext-link-type=""uri"" xlink:href=""https://neurovault.org/collections/3128/"">https://neurovault.org/collections/3128/</ext-link></p>
+    </notes>
+  </front>
+  <body>
+    <disp-quote>
+      <p>Thi"
+0,PMC5963801,"data</italic> (Human Connectome Project [<xref rid=""pcbi.1006064.ref006"" ref-type=""bibr"">6</xref>], NeuroVault [<xref rid=""pcbi.1006064.ref007"" ref-type=""bibr"">7</xref>]) instead of <italic>code</italic>, such "
+1,PMC5963801,"ame><surname>Maumet</surname><given-names>C</given-names></name>, <etal>et al</etal>
+<article-title>NeuroVault.org: a web-based repository for collecting and sharing unthresholded statistical maps of the human "
