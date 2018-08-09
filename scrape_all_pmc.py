@@ -9,7 +9,7 @@ import os
 import time
 import csv
 
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 import os
 if not os.path.exists('data/'):
