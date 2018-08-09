@@ -8,7 +8,6 @@ import re
 import os
 import time
 import csv
-
 import os
 if not os.path.exists('data/'):
     os.makedirs('data/')
