@@ -8,19 +8,17 @@ import re
 import os
 import time
 import csv
-
-#import matplotlib.pyplot as plt
-
 import os
 if not os.path.exists('data/'):
     os.makedirs('data/')
 
 df = pd.read_csv('PMC-ids.csv')
-# df_keep = df_keep[df_keep['Year']>=2006]
-df_keep = df[df['Year'] >= 2006]
-# df_keep = df[df['Journal Title']=='PLoS Comput Biol']
-df_keep = df_keep[df_keep['Journal Title'] == 'PLoS Comput Biol']
+df_temp = df[~df['Journal Title'].isnull()]
+j_list = ['brain', 'plos', 'neuro', 'psych', 'behav', 'cogn', 'bio', 'proc natl acad', 'elife', 'nature', 'science', 'sci rep', 'nat ', 'front ']
+df_keep = df_temp[df_temp['Journal Title'].str.lower().str.contains('|'.join(j_list))]
 
+#df_keep = df[df['Journal Title']=='PLoS Comput Biol']
+df_keep = df_keep[df_keep['Year']>=2006]
 df_keep.reset_index(inplace=True, drop=True)
 
 apikey = open('apikey.txt', 'r').read()
@@ -74,7 +72,7 @@ for i, row in df_keep.loc[N_previous + 1:].iterrows():
         if not (i == N_save):
             os.remove('data/ofactor_{:d}.csv'.format(i - N_save))
 
+
 df_save = pd.DataFrame(dict_term)
 df_save.to_csv('data/ofactor_{:d}.csv'.format(i))
 os.remove('data/ofactor_{:d}.csv'.format(int(np.round(i - (N_save / 2 - 1), -2))))
-
