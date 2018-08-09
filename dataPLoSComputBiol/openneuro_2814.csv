@@ -1,3 +1,0 @@
-,PMCID,sentence
-0,PMC5963801,"<xref ref-type=""fig"" rid=""pcbi.1006064.g002"">Fig 2</xref>. We here show an example that links to an OpenNeuro fMRI data set, but we could load any online data set that is set up according to the BIDS format [<"
-1,PMC5963801," is set up according to the BIDS format [<xref rid=""pcbi.1006064.ref002"" ref-type=""bibr"">2</xref>]. OpenNeuro&#x2019;s data sets are stored as Amazon repositories (&#x2018;S3 buckets&#x2019;) and can be loaded"
