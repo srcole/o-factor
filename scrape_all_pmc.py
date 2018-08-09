@@ -16,8 +16,11 @@ if not os.path.exists('data/'):
     os.makedirs('data/')
 
 df = pd.read_csv('PMC-ids.csv')
-df_keep = df[df['Journal Title']=='PLoS Comput Biol']
-df_keep = df_keep[df_keep['Year']>=2014]
+# df_keep = df_keep[df_keep['Year']>=2006]
+df_keep = df[df['Year'] >= 2006]
+# df_keep = df[df['Journal Title']=='PLoS Comput Biol']
+df_keep = df_keep[df_keep['Journal Title'] == 'PLoS Comput Biol']
+
 df_keep.reset_index(inplace=True, drop=True)
 
 apikey = open('apikey.txt', 'r').read()
@@ -30,16 +33,9 @@ terms = pd.read_csv('keywords.csv')
 categories = terms['category']
 categories_unique = np.unique(np.array(categories))
 
-
-
-# Number of characters to extract around keywords# Numbe
-span_buffer = 100
-
 # Saving parameters
 N_previous = 0
-N_save = 10
-
-num_full_papres = 0
+N_save = 500
 
 dict_term = defaultdict(list)
 
@@ -77,9 +73,6 @@ for i, row in df_keep.loc[N_previous + 1:].iterrows():
         df_save.to_csv('data/ofactor_{:d}.csv'.format(i))
         if not (i == N_save):
             os.remove('data/ofactor_{:d}.csv'.format(i - N_save))
-
-    if i > 31:
-        break
 
 df_save = pd.DataFrame(dict_term)
 df_save.to_csv('data/ofactor_{:d}.csv'.format(i))
