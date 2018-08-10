@@ -17,11 +17,11 @@ df_temp = df[~df['Journal Title'].isnull()]
 j_list = ['brain', 'plos', 'neuro', 'psych', 'behav', 'cogn', 'bio', 'proc natl acad', 'elife', 'nature', 'science', 'sci rep', 'nat ', 'front ']
 df_keep = df_temp[df_temp['Journal Title'].str.lower().str.contains('|'.join(j_list))]
 
-#df_keep = df[df['Journal Title']=='PLoS Comput Biol']
+df_keep = df[df['Journal Title']=='Biol Psychiatry']
 df_keep = df_keep[df_keep['Year']>=2006]
 df_keep.reset_index(inplace=True, drop=True)
 
-apikey = open('apikey2.txt', 'r').read()
+apikey = open('apikey4.txt', 'r').read()
 
 db = 'pmc'
 base = 'http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?'
@@ -32,8 +32,8 @@ categories = terms['category']
 categories_unique = np.unique(np.array(categories))
 
 # Saving parameters
-N_previous = 610500
-N_stop = 700000
+N_previous = 0
+N_stop = 1000000
 N_save = 500
 
 # remove the un-needed entries to save memory
@@ -72,9 +72,9 @@ for i, row in df_keep.loc[N_previous + 1:].iterrows():
     if (i % N_save == 0) & (i > 0):
         print(i)
         df_save = pd.DataFrame(dict_term)
-        df_save.to_csv('data/ofactor_{:d}.csv'.format(i))
+        df_save.to_csv('data/ofactor_{:d}_Biol_Psychiatry.csv'.format(i))
         if (i > N_previous + N_save):
-            os.remove('data/ofactor_{:d}.csv'.format(i - N_save))
+            os.remove('data/ofactor_{:d}_Biol_Psychiatry.csv'.format(i - N_save))
 
 #df_save = pd.DataFrame(dict_term)
 #df_save.to_csv('data/ofactor_{:d}.csv'.format(i))
