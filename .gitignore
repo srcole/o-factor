@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
-apikey.txt
+apikey*.txt
 PMC-ids.csv
 oa_file_list.csv
