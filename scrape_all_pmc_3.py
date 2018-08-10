@@ -32,7 +32,7 @@ categories = terms['category']
 categories_unique = np.unique(np.array(categories))
 
 # Saving parameters
-N_previous = 701500
+N_previous = 771500
 N_stop = 1000050
 N_save = 500
 
