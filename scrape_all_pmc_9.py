@@ -21,7 +21,7 @@ df_keep = df_temp[df_temp['Journal Title'].str.lower().str.contains('|'.join(j_l
 df_keep = df_keep[df_keep['Year']>=2006]
 df_keep.reset_index(inplace=True, drop=True)
 
-apikey = open('apikey2.txt', 'r').read()
+apikey = open('apikey1.txt', 'r').read()
 
 db = 'pmc'
 base = 'http://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?'
@@ -32,8 +32,8 @@ categories = terms['category']
 categories_unique = np.unique(np.array(categories))
 
 # Saving parameters
-N_previous = 610500
-N_stop = 700000
+N_previous = 850000
+N_stop = 900000
 N_save = 500
 
 # remove the un-needed entries to save memory

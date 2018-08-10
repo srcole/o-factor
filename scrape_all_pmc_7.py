@@ -32,8 +32,8 @@ categories = terms['category']
 categories_unique = np.unique(np.array(categories))
 
 # Saving parameters
-N_previous = 610500
-N_stop = 700000
+N_previous = 509500
+N_stop = 600000
 N_save = 500
 
 # remove the un-needed entries to save memory
