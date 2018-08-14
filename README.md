@@ -51,6 +51,7 @@ In order to be able to compare between the O-Factor and impact factor, we calcul
 6. Initially we scrapped ~35000 open access papers published in 1600 journals since 2006. After filtering out all the journals that had less than 200 papers, our analysis spanned ~31000 papers published by 216 journals. 
 
 7. Data sharing
+
 We computed the percent of papers which shared data (according to our keywords) in ten specific journals for which we had enough data, for the years 2008-2018 (until August 2018).
 
 The following figure presents the proportion of data sharing in these journals over the years 2016-2018:
@@ -58,6 +59,7 @@ The following figure presents the proportion of data sharing in these journals o
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see section 5 above), and should be considered accordingly! 
 
 8. Code sharing
+
 We computed the percent of papers which shared code (according to our keywords) in ten specific journals for which we had enough data, for the years 2008-2018 (until August 2018).
 
 The following figure presents the proportion of code sharing in these journals over the years 2016-2018:
@@ -65,6 +67,7 @@ The following figure presents the proportion of code sharing in these journals o
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see 5 above), and should be considered accordingly! 
 
 9. O-Factor (OF) for 2018:
+
 We computed the O-Factor of specific journals for the year 2018 (based on the years 2016-2017, see formule above). The range is 0-3.
 
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see section 5 above), and should be considered accordingly! 
