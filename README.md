@@ -30,15 +30,17 @@ Daniel Reznik - reznikda@gmail.com
 
 Emily Wood - emilytwood@gmail.com
  
-We first thought and discussed about the different components that should be included in the O-Factor. We decided to focus on four components: data sharing, code sharing, pre-registration and policies (e.g. preprints, open access http://www.oaspectrum.org, TOP guidelines https://cos.io/our-services/top-guidelines/ and more). Since taking policies into account required a lot of time and manual work, we decided to start from the other three components.
-We scraped the scientific literature based on the pubmed database (available online at ftp.ncbi.nlm.nih.gov/pub/pmc/PMC-ids.csv.gz) with focus on journals related to biological, psychological and neuroscience research. 
- “Open-scienceness” was detected by scrapping articles’ full text for specific features (keywords) reflecting categories of data-sharing, code sharing and pre-registration. Output of such scrapping was a table in which each paper got either 1 or 0 for each openness category (three main categories in total). For example, if a paper mentioned data sharing, but not pre-registration and code sharing, it will get 1 in data sharing category, and 0 in pre-registration and code-sharing categories.
+1. We first thought and discussed about the different components that should be included in the O-Factor. We decided to focus on four components: data sharing, code sharing, pre-registration and policies (e.g. preprints, open access http://www.oaspectrum.org, TOP guidelines https://cos.io/our-services/top-guidelines/ and more). Since taking policies into account required a lot of time and manual work, we decided to start from the other three components.
+
+2. We scraped the scientific literature based on the pubmed database (available online at ftp.ncbi.nlm.nih.gov/pub/pmc/PMC-ids.csv.gz) with focus on journals related to biological, psychological and neuroscience research. 
+ 
+3. “Open-scienceness” was detected by scrapping articles’ full text for specific features (keywords) reflecting categories of data-sharing, code sharing and pre-registration. Output of such scrapping was a table in which each paper got either 1 or 0 for each openness category (three main categories in total). For example, if a paper mentioned data sharing, but not pre-registration and code sharing, it will get 1 in data sharing category, and 0 in pre-registration and code-sharing categories.
 The current output table looks like that:
 
 
-For each journal, o-factor was calculated by summing the total instances of “open-scienceness” in each paper (max 3 per paper) divided by the total number of papers published in a given year as summarized in the following formula:
+4. For each journal, o-factor was calculated by summing the total instances of “open-scienceness” in each paper (max 3 per paper) divided by the total number of papers published in a given year as summarized in the following formula:
 
-O-Factor = # shared items / # sharable items
+                                      O-Factor = # shared items / # sharable items
 
 For example, if a certain journal published 100 papers in 2014, and 50 of these papers shared data, code and used preregistered reports, 10 of these papers shared only data and rest of the papers (40) shared nothing, the O-Factor for this journal will be
 (50 * 3  +  10 * 1 + 40*0) / 100 = 160 / 100 = 1.6
