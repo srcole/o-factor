@@ -35,16 +35,17 @@ The current output table looks like that:
                                       O-Factor = # shared items / # sharable items
 
 For example, if a certain journal published 100 papers in 2014, and 50 of these papers shared data, code and used preregistered reports, 10 of these papers shared only data and rest of the papers (40) shared nothing, the O-Factor for this journal will be
+
                                    (50 * 3  +  10 * 1 + 40*0) / 100 = 160 / 100 = 1.6
 
 In order to be able to compare between the O-Factor and impact factor, we calculated the O-Factor based on two years (for example, the O-Factor for 2018 was based on the number of shared items in 2016-2017, divided by the number of shareable items, which is the number of published papers during these years).
-DISCLAIMER! It is important to note that current implementation of the OF has a few major limitations:
-We scrapped only open access papers
-We used only pubmed API
-We did not filter for different article types (e.g., review papers, editorials, journal clubs for which the OF is not relevant)
-We are also aware that the keywords we used can be dramatically improved
-The codes were written and used during the 4 days of the hackaton, and should be more thoroughly tested and improved. 
-We did not quantify the proportion of empirical articles published by each journal every year
+5. DISCLAIMER! It is important to note that current implementation of the OF has a few major limitations:
+* We scrapped only open access papers
+* We used only pubmed API
+* We did not filter for different article types (e.g., review papers, editorials, journal clubs for which the OF is not relevant)
+* We are also aware that the keywords we used can be dramatically improved
+* The codes were written and used during the 4 days of the hackaton, and should be more thoroughly tested and improved. 
+* We did not quantify the proportion of empirical articles published by each journal every year
  
 Initially we scrapped ~35000 open access papers published in 1600 journals since 2006. After filtering out all the journals that had less than 200 papers, our analysis spanned ~31000 papers published by 216 journals. 
 Data sharing
