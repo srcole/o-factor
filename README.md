@@ -9,10 +9,11 @@ We want to:
 * Present the o-factor: a new measure for rank journals in terms of open-science
  
 This project was initially inspired by Scott Cole's codesharing mini-project: https://github.com/srcole/codesharing 
-And by the Code and Data Citation Counter: doi 10.5281/zenodo.1209095 link: https://github.com/softwaresaved/code-cite
+and by the Code and Data Citation Counter: doi 10.5281/zenodo.1209095 link: https://github.com/softwaresaved/code-cite
+
 O-Factor team
  
-
+ 
 Contributors (ABC order):
 * Federico Adolfi - fedeadolfi@gmail.com
 * Rotem Botvinik-Nezer - rotemb9@gmail.com
