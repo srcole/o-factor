@@ -13,21 +13,13 @@ O-Factor team
  
 
 Contributors (ABC order):
-
 Federico Adolfi - fedeadolfi@gmail.com
-
 Rotem Botvinik-Nezer - rotemb9@gmail.com
-
 Scott Cole - scott.cole0@gmail.com
-
 Mikella Green - mikellagreen@gmail.com
-
 Rosa Li - rosali920@gmail.com
-
 Kristina Rapuano - kristinarapuano@gmail.com
-
 Daniel Reznik - reznikda@gmail.com
-
 Emily Wood - emilytwood@gmail.com
  
 1. We first thought and discussed about the different components that should be included in the O-Factor. We decided to focus on four components: data sharing, code sharing, pre-registration and policies (e.g. preprints, open access http://www.oaspectrum.org, TOP guidelines https://cos.io/our-services/top-guidelines/ and more). Since taking policies into account required a lot of time and manual work, we decided to start from the other three components.
@@ -43,7 +35,7 @@ The current output table looks like that:
                                       O-Factor = # shared items / # sharable items
 
 For example, if a certain journal published 100 papers in 2014, and 50 of these papers shared data, code and used preregistered reports, 10 of these papers shared only data and rest of the papers (40) shared nothing, the O-Factor for this journal will be
-(50 * 3  +  10 * 1 + 40*0) / 100 = 160 / 100 = 1.6
+                                   (50 * 3  +  10 * 1 + 40*0) / 100 = 160 / 100 = 1.6
 
 In order to be able to compare between the O-Factor and impact factor, we calculated the O-Factor based on two years (for example, the O-Factor for 2018 was based on the number of shared items in 2016-2017, divided by the number of shareable items, which is the number of published papers during these years).
 DISCLAIMER! It is important to note that current implementation of the OF has a few major limitations:
