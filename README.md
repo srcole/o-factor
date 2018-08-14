@@ -39,6 +39,7 @@ For example, if a certain journal published 100 papers in 2014, and 50 of these 
                                    (50 * 3  +  10 * 1 + 40*0) / 100 = 160 / 100 = 1.6
 
 In order to be able to compare between the O-Factor and impact factor, we calculated the O-Factor based on two years (for example, the O-Factor for 2018 was based on the number of shared items in 2016-2017, divided by the number of shareable items, which is the number of published papers during these years).
+
 5. DISCLAIMER! It is important to note that current implementation of the OF has a few major limitations:
 * We scrapped only open access papers
 * We used only pubmed API
@@ -66,14 +67,16 @@ O-Factor (OF) for 2018:
 We computed the O-Factor of specific journals for the year 2018 (based on the years 2016-2017, see formule above). The range is 0-3.
 
 * Disclaimer: These figures are based on preliminary data with many limitations (see section 5 above), and should be considered accordingly! 
+
 Preliminary draft of a web app - https://o-factor.herokuapp.com/
+
 Future plans:
-To use other APIs (not just open access), filter only empirical papers and scrap more journals
-To validate results – current tool is completely automatic and was not tested thoroughly
-Add a tool to check if the data/codes are really shared (e.g. check that the links work)
-Consider creating an O-Factor for scientists (o-index? Similar to h-index)
-We thought about using the full text of the papers and training a model to differentiate between open and not open science papers (for each component or for all components together).
-Promote this novel metric and cultural change in how science is evaluated and rewarded!
+* To use other APIs (not just open access), filter only empirical papers and scrap more journals
+* To validate results – current tool is completely automatic and was not tested thoroughly
+* Add a tool to check if the data/codes are really shared (e.g. check that the links work)
+* Consider creating an O-Factor for scientists (o-index? Similar to h-index)
+* We thought about using the full text of the papers and training a model to differentiate between open and not open science papers (for each component or for all components together).
+* Promote this novel metric and cultural change in how science is evaluated and rewarded!
 
 Acknowledgments: This project received a great conceptual, technical and emotional support from Neurohackademy mentors Kirstie Whitaker (kw401@cam.ac.uk), Tal Yarkony (tyarkoni@utexas.edu) and Ariel Rokem (arokem@gmail.com). 
 
