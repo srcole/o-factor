@@ -32,6 +32,7 @@ Contributors (ABC order):
 3. “Open-scienceness” was detected by scrapping articles’ full text for specific features (keywords) reflecting categories of data-sharing, code sharing and pre-registration. Output of such scrapping was a table in which each paper got either 1 or 0 for each openness category (three main categories in total). For example, if a paper mentioned data sharing, but not pre-registration and code sharing, it will get 1 in data sharing category, and 0 in pre-registration and code-sharing categories.
 The current output table looks like that:
 
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/articletable.png)
 
 4. For each journal, o-factor was calculated by summing the total instances of “open-scienceness” in each paper (max 3 per paper) divided by the total number of papers published in a given year as summarized in the following formula:
 
@@ -56,8 +57,12 @@ In order to be able to compare between the O-Factor and impact factor, we calcul
 7. Data sharing
 
 We computed the percent of papers which shared data (according to our keywords) in ten specific journals for which we had enough data, for the years 2008-2018 (until August 2018).
+ 
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/datasharingyears.png)
 
 The following figure presents the proportion of data sharing in these journals over the years 2016-2018:
+
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/datasharingbar.png)
 
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see section 5 above), and should be considered accordingly! 
 
@@ -65,13 +70,19 @@ The following figure presents the proportion of data sharing in these journals o
 
 We computed the percent of papers which shared code (according to our keywords) in ten specific journals for which we had enough data, for the years 2008-2018 (until August 2018).
 
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/codesharingyears.png)
+
 The following figure presents the proportion of code sharing in these journals over the years 2016-2018:
    
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/datasharingbar.png)
+
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see 5 above), and should be considered accordingly! 
 
 9. O-Factor (OF) for 2018:
 
 We computed the O-Factor of specific journals for the year 2018 (based on the years 2016-2017, see formule above). The range is 0-3.
+
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/ofactorbars.png)
 
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see section 5 above), and should be considered accordingly! 
 
