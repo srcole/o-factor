@@ -1,4 +1,4 @@
-The o-factor (the open science factor for journals; OF)
+# The o-factor (the open science factor for journals; OF)
  
 This project started in Neurohackademy, Seattle in August 2018 (http://neurohackademy.org/). The goal of the project is to give journals (but in the future also papers, and importantly, scientists) a score of how "open science" they are. We want to find a way to promote open science and give incentives for scientists and journals to do and support more open science.
 
@@ -13,13 +13,21 @@ O-Factor team
  
 
 Contributors (ABC order):
+
 Federico Adolfi - fedeadolfi@gmail.com
+
 Rotem Botvinik-Nezer - rotemb9@gmail.com
+
 Scott Cole - scott.cole0@gmail.com
+
 Mikella Green - mikellagreen@gmail.com
+
 Rosa Li - rosali920@gmail.com
+
 Kristina Rapuano - kristinarapuano@gmail.com
+
 Daniel Reznik - reznikda@gmail.com
+
 Emily Wood - emilytwood@gmail.com
  
 We first thought and discussed about the different components that should be included in the O-Factor. We decided to focus on four components: data sharing, code sharing, pre-registration and policies (e.g. preprints, open access http://www.oaspectrum.org, TOP guidelines https://cos.io/our-services/top-guidelines/ and more). Since taking policies into account required a lot of time and manual work, we decided to start from the other three components.
