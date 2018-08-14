@@ -13,6 +13,7 @@ and by the Code and Data Citation Counter: doi 10.5281/zenodo.1209095 link: http
 
 O-Factor team
  
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/team.png)
  
 Contributors (ABC order):
 * Federico Adolfi - fedeadolfi@gmail.com
