@@ -3,9 +3,10 @@
 This project started in Neurohackademy, Seattle in August 2018 (http://neurohackademy.org/). The goal of the project is to give journals (but in the future also papers, and importantly, scientists) a score of how "open science" they are. We want to find a way to promote open science and give incentives for scientists and journals to do and support more open science.
 
 We want to:
-Measure open science across papers/journals (in the future also scientists/fields/institutions etc.)
-Show open science trends across years and journals
-Present the o-factor: a new measure for rank journals in terms of open-science
+
+* Measure open science across papers/journals (in the future also scientists/fields/institutions etc.)
+* Show open science trends across years and journals
+* Present the o-factor: a new measure for rank journals in terms of open-science
  
 This project was initially inspired by Scott Cole's codesharing mini-project: https://github.com/srcole/codesharing 
 And by the Code and Data Citation Counter: doi 10.5281/zenodo.1209095 link: https://github.com/softwaresaved/code-cite
