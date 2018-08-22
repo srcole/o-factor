@@ -74,7 +74,7 @@ We computed the percent of papers which shared code (according to our keywords) 
 
 The following figure presents the proportion of code sharing in these journals over the years 2016-2018:
    
-![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/datasharingbar.png)
+![alt text](https://raw.githubusercontent.com/srcole/o-factor/master/images/codesharingbar.png)
 
 * **Disclaimer**: These figures are based on preliminary data with many limitations (see 5 above), and should be considered accordingly! 
 
